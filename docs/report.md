@@ -14,18 +14,21 @@ product mission statement
 ### Communication Channels
 
 Name                 | 1st Choice | 2nd Choice | 3rd Choice
-Aarshon Roggy George |            |            |
-Alex Comeaux         |            |            |
+---------------------|------------|------------|-----------
+Aarshon Roggy George |            |            | *choice*
+Alex Comeaux         |            |            | *choice*
 Ian Anderson         | Text       | Discord    | Email
-Kushagra Dashora     |            |            |
+Kushagra Dashora     |            |            | *choice*
 
 Our team will primarily use *chosen method* to facilitate team communication. This allows...
+
 If team members are unresponsive for excessive times during meetings, the team member may be called for additional reminders.
 
 ### Meeting Schedule
 
 Time  | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday
-09:00 |        |        |         |           |          | I      |
+-----|--------|--------|---------|------------|----------|-------|---------
+09:00 |        |        |         |           |          | I      | *in*
 10:00 | I      |        |         |           |          | I      | I
 11:00 | I      |        |         |           |          | I      | I
 12:00 | I      |        |         |           |          | I      | I
@@ -40,10 +43,11 @@ Time  | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday
 21:00 | I      |        |         |           |          |        | I
 
 Name                 | Initial | Email              | Phone
-Aarshon Roggy George | A       |                    |
-Alex Comeaux         | C       |                    |
+---------------------|---------|--------------------|---------
+Aarshon Roggy George | A       |                    | (480)876-1337
+Alex Comeaux         | C       |                    | (602)527-7786
 Ian Anderson         | I       | <inanders@asu.edu> | (808)824-1519
-Kushagra Dashora     | K       |                    |
+Kushagra Dashora     | K       |                    | (602)632-1229
 
 Communication Methods:
 
@@ -58,6 +62,7 @@ Meetings will typically be held during *chosen hours* and are preferably in-pers
 ### Roles & Responsibilities
 
 Name         | Role              | Duties
+-------------|-------------------
              | Meeting Leader    | Schedules team meetings, creates and distributes an agenda for each meeting
              | Meeting Recorder  | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned
              | Assignment Leader | Coordinates the team's work on a given assignment to Canvas before the due date

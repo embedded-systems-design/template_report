@@ -1,20 +1,25 @@
 ---
-title: Welcome
+title: Welcome! We are team 202
 tags:
 - tag1
 - tag2
 ---
 
-## This is the first attempted push
-Lorem markdownum gradus, qui largis, nec pater pleno: fatum. Adspexit cursus
-cur, aut in adhuc crimina **habebat**: pro.
+## HOME
+**This is bold**
 
-- Et ducimus
-- Prosecta hinc nix vidi rettulit cum sitim
-- Has in tonitribus tenebrae Romane mirantum resupina
-- Figuras et dextram
+- Project Name: 
+- Team 202
+- Frank Wade, Tyler Whittle, Luis Saenz, Alexander Dooley
+- Preparation Date: 
+- Spring 2025
+- ASU, EGR 314, Prof. Dan Aukes
 
-## Esse quoque sedem plena nunc iecur
+## TEAM ORGANIZATION
+Here we should have our charter statement followed by some context. Additionally we should have a **PRODUCT MISSION STATEMENT** followed w/ supportive text. Short written section. "This can easily be done by adding "connective tissue", that explains how the team agreed upon the a project charter and mission statement rather than just pasting them in."
+
+## APPENDIX
+**NOTHING HERE YET**
 
 Possemque suos dumque. Deum recta rogantem, inquinat facta gigantas; ego nisi
 mea. Nec tamen quae gravem, potens, [cognoscendo

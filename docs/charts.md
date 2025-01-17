@@ -25,7 +25,6 @@ sequenceDiagram
   Bob-->>John: Jolly good!
 ```
 
-
 ``` mermaid
 stateDiagram-v2
   state fork_state <<fork>>

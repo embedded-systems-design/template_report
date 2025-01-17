@@ -7,10 +7,10 @@ tags:
 
 *project name* - Team 306
 
-Members |
---- | ---
+Members              |
+---------------------|------------------
 Aarshon Roggy George | Alex Comeaux
-Ian Anderson | Kushagra Dashora
+Ian Anderson         | Kushagra Dashora
 
 1/16/2025
 

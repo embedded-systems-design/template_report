@@ -62,11 +62,10 @@ Meetings will typically be held during *chosen hours* and are preferably in-pers
 
 ### Roles & Responsibilities
 
-Name         | Role              | Duties
--------------|-------------------
-             | Meeting Leader    | Schedules team meetings, creates and distributes an agenda for each meeting
-             | Meeting Recorder  | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned
-             | Assignment Leader | Coordinates the team's work on a given assignment to Canvas before the due date
+Name | Role | Duties
+*name* | Meeting Leader    | Schedules team meetings, creates and distributes an agenda for each meeting
+*name* | Meeting Recorder  | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned
+*name* | Assignment Leader | Coordinates the team's work on a given assignment to Canvas before the due date
 Ian Anderson | Project Monitor   | Tracks the team's progress relative to the project schedule (Gantt Chart) and keeps team members apprised of deadlines and project status
 *Assigned roles are subject to change at any time*
 

@@ -7,11 +7,15 @@ tags:
 
 *project name* - Team 306
 
----------------------|--------------|--------------|-----------------
-Aarshon Roggy George | Alex Comeaux | Ian Anderson | Kushagra Dashora
+Members: | Aarshon Roggy George
+         | Alex Comeaux
+         | Ian Anderson
+         | Kushagra Dashora
 
 1/16/2025
 
 Spring 2025
-----|---------|------------------
-ASU | EGR 314 | Dr. Kevin Nichols
+
+ASU
+EGR 314
+Dr. Kevin Nichols

@@ -7,6 +7,7 @@ title: Report
 ### Charter
 
 charter statement
+
 product mission statement
 
 ### Team Goals

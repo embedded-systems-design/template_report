@@ -12,9 +12,9 @@ title: Ideation and Concept Generation
 ## Phase Two
 ![Figure 2. JAM BOARD GROUPING SKETCH](../smallerProjsNotdam.jpg)
 ## Final Phase
-![Figure 3. FINAL JAM BOARD](/docs/finalJamboard.jpg)
+![Figure 3. FINAL JAM BOARD](./finalJamboard.jpg)
 # Design Sketch
-![Figure 4. CONCEPT SKETCH](/docs/IdeationConcept.jpg)
+![Figure 4. CONCEPT SKETCH](./IdeationConcept.jpg)
 
 ## Description
 The concept sketch can be described as an interactive exhibit. The goal of the exhibit is to use S.T.E.M. to create an exhibit that will inspire students, ranging from 6th to 12th grade, about S.T.E.M. The concept sketch shows the increase in potential energy stored in objects at higher elevation and how we can use different means to capture that energy and transfer it. What makes it an interactive exhibit is that the user can choose what height level to release the “water” down the ramp as well as choose the volume of “water” retreating from our reservoir. How the exhibit functions; first, there are three motors attached to 3 different valves and reservoirs. The motors will open and close the valve to release marbles, “water”, down the ramp, exiting through another simple motor to collect and distribute energy to a nearby LED. Several buttons will be used so that the user can choose the desired parameters for the exhibit. After parameters are entered and the exhibit is on, an LED screen will display the amount of voltage being produced by the generator, simple motor. When the exhibit is connected to a user’s device, the user will have the same function as the buttons.

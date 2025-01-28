@@ -8,9 +8,9 @@ title: Ideation and Concept Generation
 
 # Phases of Brainstorming
 ## Phase One
-![Figure 1. JAM BOARD GROUPING IN BEGINNING](/damproject.jpg)
+![Figure 1. JAM BOARD GROUPING IN BEGINNING](./damproject.jpg)
 ## Phase Two
-![Figure 2. JAM BOARD GROUPING SKETCH](/smallerProjsNotdam.jpg)
+![Figure 2. JAM BOARD GROUPING SKETCH](../smallerProjsNotdam.jpg)
 ## Final Phase
 ![Figure 3. FINAL JAM BOARD](/docs/finalJamboard.jpg)
 # Design Sketch

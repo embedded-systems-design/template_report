@@ -1,17 +1,5 @@
----
-title: Welcome
-tags:
-- tag1
-- tag2
----
+## Zack Gald EGR 314 Website
 
-## Hello my name is Zack
-## BOOMMMMMM
+Team 203
 
-* list item 2 
-
-name | description 
-***** | *******
-Zack | Male
-big dog
-<a href="Individualdatasheet.md">New Assignment</a>
+<a href="Individualdatasheet.md">Individual Datasheet link</a>

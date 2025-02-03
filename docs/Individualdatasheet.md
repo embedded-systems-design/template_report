@@ -1,3 +1,3 @@
 ## Individual Block Diagram
 
-The motor ![Individual Block Diagram](https://app.diagrams.net/#G1TZvjzAZKhB0Qcy8PTZ2rXXdPLXEYAPgX#%7B%22pageId%22%3A%22VuYmY4nAYuV6lEAwKZ-B%22%7D)
+The motor ![Individual.drawio.pdf](https://github.com/user-attachments/files/18645655/Individual.drawio.pdf)

@@ -1,4 +1,4 @@
 
 ## Individual Block Diagram
 
-The motor [View the Block Diagram (PDF)](Individual.drawio (1).pdf)
+The motor [View the Block Diagram (PDF)](docs/Individual.drawio (1).pdf)

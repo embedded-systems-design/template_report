@@ -1,6 +1,6 @@
-| Motor Types | Pros | Cons | Cost|
-|----------|----------|----------|-----|
-| RNEMA 17 Stepper Motor | Row 1, Column 2 | Row 1, Column 3 | $$|
-| L298N Motor Driver | Row 2, Column 2 | Row 2, Column 3 |  $$ | 
-| DRV8825 Stepper Motor Driver | Row 3, Column 2 | Row 3, Column 3 | $$ |
-| Motor | Row 3, Column 2 | Row 3, Column 3 | $$ |
+| Motor Types | Pros | Cons | Cost| Datasheet/Buy link |
+|----------|----------|----------|-----| ----- |
+| RNEMA 17 Stepper Motor | People on google doing same project said this motor works well, A lot of videos of how to program | Cant buy it on Digikey, needs a motor driver | $14 need 2| https://pages.pbclinear.com/rs/909-BFY-775/images/Data-Sheet-Stepper-Motor-Support.pdf https://www.amazon.com/STEPPERONLINE-Stepper-Bipolar-Connector-compatible/dp/B00PNEQKC0/ref=sr_1_3?dib=eyJ2IjoiMSJ9.hN-9QQUUabt-Xybqh_2hedhFHPvK1pTVCd5uyreCUlh5E2PglC-J3or6kiAEwAw4JMmDHTmrZAsR_3zgrPbqEYa1hPv6DJtc8JhdMQ-WsJSgzU5KTLuq__7tbxzyhQM7nPEh4e-D-eylhRu6oueufBAF1xPjDTwtCeM4kEuZ0oFq4kaV1_d-8UDbQGOmbVowDwecNrUi13_XGmU5OAORyaqBzxCDyiuq_cP2WocKJJM.RmsqJUufMk5yOaFdZs0WJqZvq8HzsbzK7kQ1SA-0fr4&dib_tag=se&hvadid=694836531067&hvdev=c&hvexpln=67&hvlocphy=9030087&hvnetw=g&hvocijid=15030877168917374731--&hvqmt=e&hvrand=15030877168917374731&hvtargid=kwd- |1834377567&hydadcr=24633_13626700&keywords=nema+17+stepper+motor&qid=1738702970&sr=8-3 |
+| 324 Stepper motor Hybrid | On digikey, its 12 V? | Cant find videos on it,  |  $14 need 2  | https://cdn-shop.adafruit.com/product-files/324/C140-A+datasheet.jpg https://www.digikey.com/en/products/detail/adafruit-industries-llc/324/5022791 |
+| Nema 23 Stepper Motor Driver | High Torque, holds position, simple controls, tutorials online | Limited response time, pricier than others, tutorials not on wavelength| $31 need 2 | https://cdn-shop.adafruit.com/product-files/5117/5117_Stepper_Motor_Data_Sheet.pdf https://www.digikey.com/en/products/detail/adafruit-industries-llc/5117/14639999?gclsrc=aw.ds&&utm_adgroup=&utm_source=google&utm_medium=cpc&utm_campaign=PMax%20Shopping_Product_Low%20ROAS%20Categories&utm_term=&utm_content=&utm_id=go_cmp-20243063506_adg-_ad-__dev-c_ext-_prd-14639999_sig-Cj0KCQiAkoe9BhDYARIsAH85cDNehaIoQenB6Plz62mv3F3sUK5k2e49wEzXqSjWUNkFsWcn99sn9voaAie3EALw_wcB&gad_source=1&gclid=Cj0KCQiAkoe9BhDYARIsAH85cDNehaIoQenB6Plz62mv3F3sUK5k2e49wEzXqSjWUNkFsWcn99sn9voaAie3EALw_wcB&gclsrc=aw.ds |
+

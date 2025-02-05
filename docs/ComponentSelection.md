@@ -7,7 +7,7 @@
 | 324 Stepper Motor Hybrid | Available on Digikey, compatible with 12V power | Fewer online resources and tutorials | $14 (x2) | [Datasheet](https://cdn-shop.adafruit.com/product-files/324/C140-A+datasheet.jpg) / [Buy](https://www.digikey.com/en/products/detail/adafruit-industries-llc/324/5022791) |
 | NEMA 23 Stepper Motor | High torque, holds position well, simple controls | Limited response time, more expensive | $31 (x2) | [Datasheet](https://cdn-shop.adafruit.com/product-files/5117/5117_Stepper_Motor_Data_Sheet.pdf) / [Buy](https://www.digikey.com/en/products/detail/adafruit-industries-llc/5117/14639999) |
 
-## Motor Driver Selection for NEMA 17 Stepper Motor
+## Motor Driver Selection
 
 | Motor Driver | Pros | Cons | Cost | Datasheet/Buy Link |
 |-------------|------|------|------|---------------------|

@@ -7,6 +7,14 @@
 | 324 Stepper Motor Hybrid | Available on Digikey, compatible with 12V power | Fewer online resources and tutorials | $14 (x2) | [Datasheet](https://cdn-shop.adafruit.com/product-files/324/C140-A+datasheet.jpg) / [Buy](https://www.digikey.com/en/products/detail/adafruit-industries-llc/324/5022791) |
 | NEMA 23 Stepper Motor | High torque, holds position well, simple controls | Limited response time, more expensive | $31 (x2) | [Datasheet](https://cdn-shop.adafruit.com/product-files/5117/5117_Stepper_Motor_Data_Sheet.pdf) / [Buy](https://www.digikey.com/en/products/detail/adafruit-industries-llc/5117/14639999) |
 
+## Motor Driver Selection for NEMA 17 Stepper Motor
+
+| Motor Driver | Pros | Cons | Cost | Datasheet/Buy Link |
+|-------------|------|------|------|---------------------|
+| DRV8825 Stepper Motor Driver | High current capacity (2.5A peak), Microstepping support (up to 1/32), Widely used with tutorials available | Requires heat dissipation for higher currents | ~$8 | [Datasheet](https://www.ti.com/lit/ds/symlink/drv8825.pdf) / [Buy Link](https://www.pololu.com/product/2133) |
+| A4988 Stepper Motor Driver | Simple to use, Supports microstepping (up to 1/16), Affordable | Lower current limit (2A peak), Less efficient cooling | ~$5 | [Datasheet](https://www.allegromicro.com/en/products/motor-driver-ics/stepper-motor-drivers/a4988) / [Buy Link](https://www.pololu.com/product/1182) |
+| TB6600 Stepper Motor Driver | High power handling (4.5A peak), Good heat dissipation, Adjustable current settings | Bulky, More expensive | ~$15 | [Datasheet](https://www.makerguides.com/tb6600-stepper-motor-driver-arduino-tutorial/) / [Buy Link](https://www.amazon.com/dp/B07G6GLVZJ) |
+
 ### Microcontroller Selection
 | Microcontroller | Pros | Cons | Cost | Datasheet/Buy Link |
 |-----------------|------|------|------|--------------------|

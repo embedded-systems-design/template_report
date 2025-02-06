@@ -2,7 +2,8 @@
 title: Second Page
 ---
 
-## Block Diagram for WI-FI Two Way internet coounication using MQRTT
+## Block Diagram for WI-FI Two-Way Internet Communication Using MQTT
 
-<img src="https://raw.githubusercontent.com/https://github.com/Shelton123-ENG/Shel.github.io/refs/heads/main/images<img width="509" alt="image" src="https://github.com/user-attachments/assets/645c90c2-c228-4d8f-8052-14227246117d" />
-" alt="WIFI Block Diagram">
+![Block Diagram](https://raw.githubusercontent.com/Shelton123-ENG/Shel.github.io/main/images/image.png)
+
+![Alternative Image](https://github.com/user-attachments/assets/645c90c2-c228-4d8f-8052-14227246117d)

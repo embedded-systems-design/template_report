@@ -8,14 +8,14 @@ title: Component Selection Example
 
 | **Solution**                                                                                                                                                                                      | **Pros**                                                                                                                                    | **Cons**                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| ![](image1.png)<br>Option 1.<br> LM2575T-3.3G Voltage regulator<br>$1/each<br>[link to product](https://www.digikey.com/en/products/detail/onsemi/LM2575T-3-3G/1476700)                 | \* Its pretty Inexpensive<br>\* Compatible with ESP32<br>\*                                                                                           | \* This isnot surface mount. |
-| ![](image3.png)<br>\* Option 2. <br>\* LM2575T-3.3G Voltage regulator Onsemi <br>\* $1/each <br>\* [Link to product](https://www.mouser.com/ProductDetail/onsemi/LM2575T-3.3G?qs=2OtswVQKCOGI3KWqs9UK2g%3D%3D&srsltid=AfmBOortntqRKRikqDGAmiPXAOOyckybAR0vXEoz6tZxH8LwnRsjO0iy) | \* Stabel Tempurature <br>\* Regulates at 3.3V <br>  | \* Less documentation <br>                                                       |
-| ![](image3.png)<br>\* Option 2. <br>\* LM2575T-3.3G Voltage regulator Onsemi <br>\* $1/each <br>\* [Link to product](https://www.mouser.com/ProductDetail/onsemi/LM2575T-3.3G?qs=2OtswVQKCOGI3KWqs9UK2g%3D%3D&srsltid=AfmBOortntqRKRikqDGAmiPXAOOyckybAR0vXEoz6tZxH8LwnRsjO0iy) | \* Stabel Tempurature <br>\* Regulates at 3.3V <br>  | \* Less documentation <br>                                                       |
+| ![](image1.png)<br>Option 1.<br> LM2575T-3.3G Voltage regulator<br>$2.99/each<br>[link to product](https://www.digikey.com/en/products/detail/onsemi/LM2575T-3-3G/1476700)                 | \* Its pretty Inexpensive<br>\* Compatible with ESP32<br>\*                                                                                           | \* This isnot surface mount. |
+| ![](image3.png)<br>\* Option 2. <br>\* LM2575T-3.3G Voltage regulator Onsemi <br>\* $2.99/each <br>\* [Link to product](https://www.mouser.com/ProductDetail/onsemi/LM2575T-3.3G?qs=2OtswVQKCOGI3KWqs9UK2g%3D%3D&srsltid=AfmBOortntqRKRikqDGAmiPXAOOyckybAR0vXEoz6tZxH8LwnRsjO0iy) | \* Stable Tempurature <br>\* Regulates at 3.3V <br>  | \* Less documentation <br>                                                       |
+| ![](image3.png)<br>\* Option 2. <br>\*998-LM2575T-3.3G Voltage regulator Onsemi <br>\* $1.75/each <br>\* [Link to product](https://www.mouser.com/ProductDetail/Microchip-Technology/LM2575-33WU?qs=kh6iOki%2FeLFl2EB4QdXuKA%3D%3D&utm_id=8790913657&gad_source=1&gclid=CjwKCAiA74G9BhAEEiwA8kNfpSM8OPXtxbaCHgvZc1sHfrbZeLMksdtZdrtF3OnQCLQ7SpuZGOPnvhoC3ikQAvD_BwE) | \* Surface mount<br>\* Regulates at 3.3V <br>\* Very affordable <br> | \* more complicated to solder <br>                                                       |
 
 
-**Choice:** Option 3: M2575T-3.3G Voltage regulator Surface Mount Version
+**Choice:** Option 3: 998-M2575T-3.3G Voltage regulator Surface Mount Version
 
-**Rationale:** This product is from digikey, it also has great documentation as well as meeting the surface mount requirements.
+**Rationale:** This product is from Mouser, it also has great documentation as well as meeting the surface mount requirements.
 
 
 

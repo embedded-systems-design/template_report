@@ -9,11 +9,13 @@ title: Component Selection Example
 | **Solution**                                                                                                                                                                                      | **Pros**                                                                                                                                    | **Cons**                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | ![](image1.png)<br>Option 1.<br> LM2575T-3.3G Voltage regulator<br>$1/each<br>[link to product](https://www.digikey.com/en/products/detail/onsemi/LM2575T-3-3G/1476700)                 | \* Its pretty Inexpensive<br>\* Compatible with ESP32<br>\*                                                                                           | \* This isnot surface mount. |
-| ![](image3.png)<br>\* Option 2. <br>\* LM2575T-3.3G Voltage regulator Onsemi <br>\* $1/each <br>\* [Link to product](https://www.mouser.com/ProductDetail/onsemi/LM2575T-3.3G?qs=2OtswVQKCOGI3KWqs9UK2g%3D%3D&srsltid=AfmBOortntqRKRikqDGAmiPXAOOyckybAR0vXEoz6tZxH8LwnRsjO0iy) | \* Outputs a square wave <br>\* Stable over operating temperature <br> \* Direct interface with PSoC (no external circuitry required) range | * More expensive <br>\* Slow shipping speed                                                         |
+| ![](image3.png)<br>\* Option 2. <br>\* LM2575T-3.3G Voltage regulator Onsemi <br>\* $1/each <br>\* [Link to product](https://www.mouser.com/ProductDetail/onsemi/LM2575T-3.3G?qs=2OtswVQKCOGI3KWqs9UK2g%3D%3D&srsltid=AfmBOortntqRKRikqDGAmiPXAOOyckybAR0vXEoz6tZxH8LwnRsjO0iy) | \* Stabel Tempurature <br>\* Regulates at 3.3V <br>  | \* Less documentation <br>                                                       |
+| ![](image3.png)<br>\* Option 2. <br>\* LM2575T-3.3G Voltage regulator Onsemi <br>\* $1/each <br>\* [Link to product](https://www.mouser.com/ProductDetail/onsemi/LM2575T-3.3G?qs=2OtswVQKCOGI3KWqs9UK2g%3D%3D&srsltid=AfmBOortntqRKRikqDGAmiPXAOOyckybAR0vXEoz6tZxH8LwnRsjO0iy) | \* Stabel Tempurature <br>\* Regulates at 3.3V <br>  | \* Less documentation <br>                                                       |
 
-**Choice:** Option 2: CTX936TR-ND surface mount oscillator
 
-**Rationale:** A clock oscillator is easier to work with because it requires no external circuitry in order to interface with the PSoC. This is particularly important because we are not sure of the electrical characteristics of the PCB, which could affect the oscillation of a crystal. While the shipping speed is slow, according to the website if we order this week it will arrive within 3 weeks.
+**Choice:** Option 3: M2575T-3.3G Voltage regulator Surface Mount Version
+
+**Rationale:** This product is from digikey, it also has great documentation as well as meeting the surface mount requirements.
 
 
 

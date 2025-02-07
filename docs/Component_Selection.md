@@ -11,7 +11,7 @@
       <th>Cons</th>
       <th>Component_3</th>
       <th>Pros</th>
-      <th>Coons</th>
+      <th>Cons</th>
       <th>Final decision and reasoning</th>
     </tr>
   </thead>

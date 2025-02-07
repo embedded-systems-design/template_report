@@ -37,13 +37,13 @@ title: Component Selection
 
 | **Solution**                                                                                                                                                                                      | **Pros**                                                                                                                                    | **Cons**                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| ![](image1.png)<br>Option 1.<br> EEEFP1H101AL<br>$1.08/each<br>[link to product]((https://www.newark.com/panasonic/eee-fp1h101al/cap-100uf-50v-alu-elec-smd/dp/77AH6958?gQT=1))                 | \* is made from aluminum<br>\* very high tempurature opperation<br>\* low capacitive resistance                                              | \* Rslightly more expensive<br>\* |
+| ![](image1.png)<br>Option 1.<br> EEEFP1H101AL<br>$1.08/each<br>[link to product]((https://www.newark.com/panasonic/eee-fp1h101al/cap-100uf-50v-alu-elec-smd/dp/77AH6958?gQT=1))                 | \* is made from aluminum<br>\* very high tempurature opperation<br>\* low capacitive resistance                                              | \* slightly more expensive<br>\* |
 | ![](image3.png)<br>\* Option 2. <br>\*NACZ101M50V8X10.5TR15F <br>\* $0.75/each <br>\* [Link to product](https://www.digikey.com/en/products/detail/nic-components-corp/NACZ101M50V8X10.5TR15F/22237846?gclsrc=aw.ds&&utm_adgroup=&utm_source=google&utm_medium=cpc&utm_campaign=Pmax_Shopping_DK%2B%20Supplier_GEM%20Suppliers&utm_term=&utm_content=&utm_id=go_cmp-20940607809_adg-_ad-__dev-c_ext-_prd-22237846_sig-Cj0KCQiA-5a9BhCBARIsACwMkJ6SoxjzmShiHYpyNLZBKTV90kZgzpwd-frZ5nXwgLEiKssFXpOCy5caApXMEALw_wcB&gad_source=4&gclid=Cj0KCQiA-5a9BhCBARIsACwMkJ6SoxjzmShiHYpyNLZBKTV90kZgzpwd-frZ5nXwgLEiKssFXpOCy5caApXMEALw_wcB&gclsrc=aw.ds) | \* resists alot of back EMF <br>\* Is rated for 200V <br> \* can be bought in bulk for a discount| * Its a larger capacitor <br>\* 
-| ![](image3.png)<br>\* Option 3. <br>\*1N5817G<br>\* $1.41/each <br>\* [Link to product]https://www.digikey.com/en/products/detail/surge/VUJ101M1HTR-1313S/12451683?gQT=1) | \* Surface mount<br>\* smallest size <br>\* good voltage rating <br> | \* most expensive otion <br>                                                       ||
+| ![](image3.png)<br>\* Option 3. <br>\*1N5817G<br>\* $1.41/each <br>\* [Link to product(]https://www.digikey.com/en/products/detail/surge/VUJ101M1HTR-1313S/12451683?gQT=1) | \* Surface mount<br>\* smallest size <br>\* good voltage rating <br> | \* most expensive option <br>                                                       ||
 
 **Choice:** Option 2:NACZ101M50V8X10.5TR15F
 
-**Rationale:** THis is the most affordable optionb alongside meeting all the requirements needed in a capacitor.
+**Rationale:** This is the most affordable optionb alongside meeting all the requirements needed in a capacitor.
 
 
 
@@ -58,5 +58,5 @@ title: Component Selection
 
 **Choice:** Option 2:NACZ101M50V8X10.5TR15F
 
-**Rationale:** THis is the most affordable optionb alongside meeting all the requirements needed in a capacitor.
+**Rationale:** .
 

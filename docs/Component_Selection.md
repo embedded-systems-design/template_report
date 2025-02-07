@@ -27,6 +27,20 @@ title: Component Selection
 | ![](image3.png)<br>\* Option 2. <br>\*1N5819W Diode <br>\* $0.21/each <br>\* [Link to product](https://www.digikey.com.br/en/products/detail/smc-diode-solutions/1N5819W/15964237?gQT=2) | \* resists alot of back EMF <br>\* Stable over operating temperature <br>  | * More fragile diode than the other options <br>\* 
 | ![](image3.png)<br>\* Option 3. <br>\*1N5817G<br>\* $0.41/each <br>\* [Link to product](https://www.digikey.com/en/products/detail/onsemi/1N5817G/1474208?gQT=2) | \* Surface mount<br>\* Regulates at 3.3V <br>\* Very affordable <br> | \* more complicated to solder <br>                                                       ||
 
+**Choice:** Option 1: 1N5819HWQ-7-F Diodes
+
+**Rationale:** A reliable diode that can handle lots of current and voervoltage if neccesary. A solid option that also meets the surface mount requirement
+
+
+
+**100 uF Capacitor**
+
+| **Solution**                                                                                                                                                                                      | **Pros**                                                                                                                                    | **Cons**                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| ![](image1.png)<br>Option 1.<br> EEEFP1H101AL<br>$0.30/each<br>[link to product]([https://www.digikey.com/en/products/detail/diodes-incorporated/1N5819HWQ-7-F/10294862](https://www.newark.com/panasonic/eee-fp1h101al/cap-100uf-50v-alu-elec-smd/dp/77AH6958?gQT=1))                 | \* is made from aluminum s<br>\* very high tempurature opperation<br>\* low capacitive resistance                                              | \* Requires external surface mount soldering<br>\* |
+| ![](image3.png)<br>\* Option 2. <br>\*1N5819W Diode <br>\* $0.21/each <br>\* [Link to product](https://www.digikey.com.br/en/products/detail/smc-diode-solutions/1N5819W/15964237?gQT=2) | \* resists alot of back EMF <br>\* Stable over operating temperature <br>  | * More fragile diode than the other options <br>\* 
+| ![](image3.png)<br>\* Option 3. <br>\*1N5817G<br>\* $0.41/each <br>\* [Link to product](https://www.digikey.com/en/products/detail/onsemi/1N5817G/1474208?gQT=2) | \* Surface mount<br>\* Regulates at 3.3V <br>\* Very affordable <br> | \* more complicated to solder <br>                                                       ||
+
 **Choice:** Option 2: CTX936TR-ND surface mount oscillator
 
 **Rationale:** A clock oscillator is easier to work with because it requires no external circuitry in order to interface with the PSoC. This is particularly important because we are not sure of the electrical characteristics of the PCB, which could affect the oscillation of a crystal. While the shipping speed is slow, according to the website if we order this week it will arrive within 3 weeks.

@@ -58,5 +58,19 @@ title: Component Selection
 
 **Choice:** Option 2:NACZ101M50V8X10.5TR15F
 
+
+
+
+
+**200 uH Inductorr**
+
+| **Solution**                                                                                                                                                                                      | **Pros**                                                                                                                                    | **Cons**                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| ![](image1.png)<br>Option 1.<br> 593D337X9010E2TE3<br>$1.08/each<br>[link to product](https://www.mouser.com/ProductDetail/Vishay-Sprague/593D337X9010E2TE3?qs=sGAEpiMZZMsh%252B1woXyUXjwCXIFHUiAeHSeSfpcvZBjg%3D)                 | \* is made from aluminum<br>\* very high tempurature opperation<br>\* low capacitive resistance                                              | \* Rslightly more expensive<br>\* |
+| ![](image3.png)<br>\* Option 2. <br>\*NACZ101M50V8X10.5TR15F <br>\* $1.49/each <br>\* [Link to product](https://www.elliottelectronicsupply.com/surface-mount-smt-electrolytic-capacitors.html?gQT=1) | \* resists alot of back EMF <br>\* Is rated for 200V <br> \* can be bought in bulk for a discount| * Its a larger capacitor <br>\* 
+| ![](image3.png)<br>\* Option 3. <br>\*EEE-FP1A331AP<br>\* $1.41/each <br>\* [Link to product](https://www.digikey.com/en/products/detail/panasonic-electronic-components/EEE-FP1A331AP/1701024?gQT=1) | \* Surface mount<br>\* smallest size <br>\* good voltage rating <br> | \* most expensive otion <br>                                                       ||
+
+**Choice:** Option 2:NACZ101M50V8X10.5TR15F
+
 **Rationale:** .
 

@@ -4,9 +4,9 @@ title: ESP32 Table
 
 | ESP Info                                      | Answer | Help                                                                                                      |
 | --------------------------------------------- | ------ | --------------------------------------------------------------------------------------------------------- |
-| Model                                         | ?      | Include the entire part number (leave off any letters at the end that specify the package type)           |
-| Product Page URL                              | ?      | Found on Espressif.com                                                                                    |
-| ESP32-S3-WROOM-1-N4 Datasheet URL             | ?      | Do not paste links directly into the table.  Use a [link](#)                                              |
+| Model                                         | 1965-ESP32-S3-WROOM-1-N4      | Include the entire part number (leave off any letters at the end that specify the package type)           |
+| Product Page URL                              | [link](https://www.digikey.com/en/products/detail/espressif-systems/ESP32-S3-WROOM-1-N4/16162639)      | Found on Espressif.com                                                                                    |
+| ESP32-S3-WROOM-1-N4 Datasheet URL             | [Link](https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf)      | Do not paste links directly into the table.  Use a [link](#)                                              |
 | ESP32 S3 Datasheet URL                        | ?      | Has more detail on functions                                                                              |
 | ESP32 S3 Technical Reference Manual URL       | ?      | Has details on I/O multiplexing, USB, and others                                                          |
 | Vendor link                                   | ?      | Digikey, Jameco, etc.  Do not paste links directly into the table.  Use a [link](#)                       |

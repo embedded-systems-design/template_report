@@ -35,3 +35,10 @@ title: ESP32 Table
 
 
 \* The ESP32-S2 has multiple SPI interfaces, but some are for internal use
+
+
+## esp32 pinout
+
+![Alternative Image](https://github.com/user-attachments/assets/c0f0fe39-41e3-40be-8dc0-98fd614f0806)
+
+)

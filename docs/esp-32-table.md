@@ -22,13 +22,13 @@ title: ESP32 Table
 
 | Module         | # Available | Needed | Associated Pins (or * for any) |
 | -------------- | ----------- | ------ | ------------------------------ |
-| UART           | ?           | ?      | ?                              |
+| UART           | 35           | 2      | ?                              |
 | external SPI\* | ?           | ?      | ?                              |
-| I2C            | ?           | ?      | ?                              |
-| GPIO           | ?           | ?      | ?                              |
-| ADC            | ?           | ?      | ?                              |
-| LED PWM        | ?           | ?      | ?                              |
-| Motor PWM      | ?           | ?      | ?                              |
+| I2C            | ?           | 0      | ?                              |
+| GPIO           | ?           | 0      | ?                              |
+| ADC            | ?           | 0      | ?                              |
+| LED PWM        | ?           | 0      | ?                              |
+| Motor PWM      | ?           | 0      | ?                              |
 | USB Programmer | ?           | 1      | ?                              |
 | ...            |
 
@@ -41,4 +41,4 @@ title: ESP32 Table
 
 ![Alternative Image](https://github.com/user-attachments/assets/c0f0fe39-41e3-40be-8dc0-98fd614f0806)
 
-)
+

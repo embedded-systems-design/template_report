@@ -22,7 +22,7 @@ title: ESP32 Table
 
 | Module         | # Available | Needed | Associated Pins (or * for any) |
 | -------------- | ----------- | ------ | ------------------------------ |
-| UART           | 35           | 2      | ?                              |
+| UART           | 33          | 2      | all IO pins                    |
 | external SPI\* | ?           | ?      | ?                              |
 | I2C            | ?           | 0      | ?                              |
 | GPIO           | ?           | 0      | ?                              |

@@ -10,7 +10,7 @@ title: Block Diagram, Process Diagram, and Message Structure
 
 ## Process Diagram
 
-![Figure 2: Communication Process Diagram]()
+![Figure 2: Communication Process Diagram](./SequenceDiagram.jpg)
 
 ## Message Structure
 

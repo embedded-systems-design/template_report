@@ -6,11 +6,11 @@ title: Block Diagram, Process Diagram, and Message Structure
 
 ## Block Diagram
 
-![Team Block Diagram]()
+![Figure 1: Team Block Diagram](./TeamBlockDiagram.jpg)
 
 ## Process Diagram
 
-![Communication Process Diagram]()
+![Figure 2: Communication Process Diagram]()
 
 ## Message Structure
 

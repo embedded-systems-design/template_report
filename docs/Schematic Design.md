@@ -1,8 +1,3 @@
 ## Schematic Design
 
-![View the schematic (PDF)](https://github.com/user-attachments/files/18893945/motorschematic1.pdf)
-
-<iframe src="https://zackgald.github.io/motorschematic1.drawio.pdf" width="100%" height="500px"></iframe>
-
-The motor [View the schematic (PDF)](docs/motorschematic1.pdf)
-![motorschematic1.pdf](https://github.com/user-attachments/files/18893945/motorschematic1.pdf)
+![motorschemic](https://github.com/user-attachments/assets/3f13fa68-c1b2-4333-b3bf-938d411fb1d1)

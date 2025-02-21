@@ -1,5 +1,3 @@
 ## Individual Block Diagram
 
-<iframe src="https://zackgald.github.io/Individual.drawio.pdf" width="100%" height="500px"></iframe>
-
-The motor [View the Block Diagram (PDF)](https://zackgald.github.io/Individual.drawio.pdf)
+![Block Diagram ](https://github.com/user-attachments/assets/b1097494-eac1-490e-8672-0ca014a1d236)

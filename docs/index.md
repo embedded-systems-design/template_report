@@ -14,7 +14,7 @@ This subsystem will communicate with an MQTT server, gathering data from other s
 
 ### Reference  
 
-![MQTT on ESP32](https://www.electronicwings.com/esp32/esp32-mqtt-client)  
+![Alternative Image](https://github.com/user-attachments/assets/11b46da2-5434-47d9-ac46-38fdb6d5bcd9)
 
 [1] “MQTT on ESP32 - Publish-Subscribe Beginners Guide | ESP32,” *Electronic Wings*.  
 [View the article here](https://www.electronicwings.com/esp32/esp32-mqtt-client).  

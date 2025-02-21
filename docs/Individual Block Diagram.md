@@ -2,6 +2,7 @@
 
 ![blockplease](https://github.com/user-attachments/files/18914888/blockplease.pdf)
 
+docs/blockplease.pdf
 
 -------------------------------------------------
 

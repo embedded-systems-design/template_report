@@ -1,8 +1,7 @@
 ## Individual Block Diagram
 
+![blockplease](https://github.com/user-attachments/files/18914888/blockplease.pdf)
 
-![block.pdf](https://github.com/user-attachments/files/18914672/block.pdf)
-![block (1).pdf](https://github.com/user-attachments/files/18914841/block.1.pdf)
 
 -------------------------------------------------
 

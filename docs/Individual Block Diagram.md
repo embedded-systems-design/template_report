@@ -1,12 +1,10 @@
 ## Individual Block Diagram
 
-![blockplease](https://github.com/user-attachments/files/18914888/blockplease.pdf)
+![Download PDF](https://github.com/user-attachments/files/18914888/blockplease.pdf)
 
-docs/blockplease.pdf[Uploading Untitled Diagram.drawio…]()
+![71S3eHs-EbL _AC_UL320_](https://github.com/user-attachments/assets/56aa2519-5672-41d3-ad8b-46785ce4ea2d)
 
-![Untitled Diagram.drawio.pdf](https://github.com/user-attachments/files/18914986/Untitled.Diagram.drawio.pdf)
-![blockplease (1).pdf](https://github.com/user-attachments/files/18915106/blockplease.1.pdf)
-
+[Download PDF](https://github.com/user-attachments/files/18914888/blockplease.pdf)
 -------------------------------------------------
 
 Block diagram of the Motor part of the project. There is 2 different voltages on the board, 9 V and 3.3 V. The Microcontroller is connected to the motor driver through the SPI connections. The driver is connected to the stepper motor. 

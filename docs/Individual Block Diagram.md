@@ -2,7 +2,10 @@
 
 ![Download PDF](https://github.com/user-attachments/files/18914888/blockplease.pdf)
 
-![71S3eHs-EbL _AC_UL320_](https://github.com/user-attachments/assets/56aa2519-5672-41d3-ad8b-46785ce4ea2d)
+<iframe src="https://github.com/user-attachments/files/18914888/blockplease.pdf" width="100%" height="600px">
+  This browser does not support PDFs. Please download the PDF to view it: 
+  <a href="https://github.com/user-attachments/files/18914888/blockplease.pdf">Download PDF</a>
+</iframe>
 
 [Download PDF](https://github.com/user-attachments/files/18914888/blockplease.pdf)
 -------------------------------------------------

@@ -4,5 +4,4 @@ title: Schematic
 
 ## Schematic WI-FI Two-Way Internet Communication Using MQTT
 
-![Alternative Image](https://github.com/user-attachments/assets/Screenshot 2025-02-21 140150)
-
+![WIFI Schematic](https://github.com/user-attachments/assets/a6b8af02-08ba-4052-b6d3-2ecb1c5638fe)

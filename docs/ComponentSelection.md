@@ -14,7 +14,8 @@
 |-------------|------|------|------|---------------------| ----- |
 | DRV8825 Stepper Motor Driver | High current capacity (2.5A peak), Microstepping support (up to 1/32), Widely used with tutorials available | Requires heat dissipation for higher currents | ~$8 | [Datasheet](https://www.ti.com/lit/ds/symlink/drv8825.pdf) / [Buy Link](https://www.digikey.com/en/products/detail/soldered-electronics/333000/21293657?gclsrc=aw.ds&&utm_adgroup=&utm_source=google&utm_medium=cpc&utm_campaign=PMax%20Shopping_Product_Low%20ROAS%20Categories&utm_term=&utm_content=&utm_id=go_cmp-20243063506_adg-_ad-__dev-c_ext-_prd-21293657_sig-CjwKCAiA2JG9BhAuEiwAH_zf3sFXmcbqJmnJGvzkRu3IseDg62oV99ovmgCdY3IPeuIMjStmdnqLUBoCEgYQAvD_BwE&gad_source=1&gclid=CjwKCAiA2JG9BhAuEiwAH_zf3sFXmcbqJmnJGvzkRu3IseDg62oV99ovmgCdY3IPeuIMjStmdnqLUBoCEgYQAvD_BwE&gclsrc=aw.ds) | ![download](https://github.com/user-attachments/assets/7c3105ec-3c36-4e0b-98a5-49d55abe30a3) |
 | A4988 Stepper Motor Driver | Simple to use, Supports microstepping (up to 1/16), Affordable | Lower current limit (2A peak), Less efficient cooling | ~$5 | [Datasheet](https://www.allegromicro.com/en/products/motor-driver-ics/stepper-motor-drivers/a4988) / [Buy Link]([https://www.pololu.com/product/1182](https://www.digikey.com/en/products/detail/sparkfun-electronics/ROB-25167/24344242?gclsrc=aw.ds&&utm_adgroup=&utm_source=google&utm_medium=cpc&utm_campaign=PMax%20Shopping_Product_Low%20ROAS%20Categories&utm_term=&utm_content=&utm_id=go_cmp-20243063506_adg-_ad-__dev-c_ext-_prd-24344242_sig-CjwKCAiA2JG9BhAuEiwAH_zf3qcGVJedvwRn-y8ilG4FhOo5tDn2i65Xoz3EPm65dnZ8VAwSDjOWiBoCrF0QAvD_BwE&gad_source=1&gclid=CjwKCAiA2JG9BhAuEiwAH_zf3qcGVJedvwRn-y8ilG4FhOo5tDn2i65Xoz3EPm65dnZ8VAwSDjOWiBoCrF0QAvD_BwE&gclsrc=aw.ds)) | ![download](https://github.com/user-attachments/assets/17f12af7-2d7b-4931-8970-5298028744af) |
-| TB6600 Stepper Motor Driver | High power handling (4.5A peak), Good heat dissipation, Adjustable current settings | Bulky, More expensive | ~$15 | [Datasheet](https://www.makerguides.com/tb6600-stepper-motor-driver-arduino-tutorial/) / [Buy Link]([https://www.amazon.com/dp/B07G6GLVZJ](https://www.digikey.com/en/products/detail/sparkfun-electronics/ROB-12779/5318750?gclsrc=aw.ds&&utm_adgroup=&utm_source=google&utm_medium=cpc&utm_campaign=PMax%20Shopping_Product_Low%20ROAS%20Categories&utm_term=&utm_content=&utm_id=go_cmp-20243063506_adg-_ad-__dev-c_ext-_prd-5318750_sig-CjwKCAiA2JG9BhAuEiwAH_zf3qbPbYKqVUgfbv-5TnFCnnvAWt0CMkMOpD5Yflntf6emcP1e8X5nVRoCOygQAvD_BwE&gad_source=1&gclid=CjwKCAiA2JG9BhAuEiwAH_zf3qbPbYKqVUgfbv-5TnFCnnvAWt0CMkMOpD5Yflntf6emcP1e8X5nVRoCOygQAvD_BwE&gclsrc=aw.ds)) | ![71S3eHs-EbL _AC_UL320_](https://github.com/user-attachments/assets/56aa2519-5672-41d3-ad8b-46785ce4ea2d) |
+| TMC2130 Stepper Motor Driver | High power handling (4.5A peak), Good heat dissipation, Adjustable current settings, SPI  | Bulky, More expensive | ~$15 | [Datasheet]([https://www.makerguides.com/tb6600-stepper-motor-driver-arduino-tutorial/](https://www.analog.com/media/en/technical-documentation/data-sheets/tmc2130_datasheet_rev1.15.pdf)) / [Buy Link](https://www.digikey.com/en/products/detail/watterott-electronic-gmbh/20160027-002/10071145?gclsrc=aw.ds&&utm_adgroup=&utm_source=google&utm_medium=cpc&utm_campaign=PMax%20Shopping_Product_Low%20ROAS%20Categories&utm_term=&utm_content=&utm_id=go_cmp-20243063506_adg-_ad-__dev-c_ext-_prd-10071145_sig-CjwKCAiA5eC9BhAuEiwA3CKwQktQRARnkVRENUIW5yHmDuYpy1UAJi4NL2xmV22WrdqwAE428-uHRBoChCYQAvD_BwE&gad_source=1&gclid=CjwKCAiA5eC9BhAuEiwA3CKwQktQRARnkVRENUIW5yHmDuYpy1UAJi4NL2xmV22WrdqwAE428-uHRBoChCYQAvD_BwE&gclsrc=aw.ds)) | ![image](https://github.com/user-attachments/assets/7b22542c-7fb2-4bf7-a85a-28782fe306ed) |
+
 
 ### Microcontroller Selection
 | Microcontroller | Pros | Cons  | Datasheet |
@@ -26,9 +27,8 @@
 My primary responsibility is managing the motor and motor driver, ensuring precise control over the string's motion to produce different sound waves. I am also in charge of designing and constructing the physical structure, making sure it is sturdy, functional, and integrates well with the other components. For sensing, I focus on monitoring motor position and speed, possibly using encoders or current sensing. Actuation involves selecting and implementing the appropriate motor and driver to achieve smooth and consistent movement. In terms of display, I ensure that motor status and control feedback are visible. Power management is crucial, as the motor requires stable voltage and current to function efficiently without overloading the system.
 
 ## Pick of Mircocontroller
-The ESP32-S3-WROOM-1-N4 is the better choice for controlling a NEMA 17 stepper motor due to its higher processing power, built-in WiFi and Bluetooth, and strong software support. It offers flexible PWM outputs and timers for precise motor control, along with more RAM and Flash memory for expandability.
+The Pic is the better choice for controlling a NEMA 17 stepper motor due to its higher processing power, built-in WiFi and Bluetooth, and strong software support. It offers flexible PWM outputs and timers for precise motor control, along with more RAM and Flash memory for expandability.
 
-# ESP32-S3-WROOM-1-N4 Pin Allocation
 
 ## Pinout Table
 
@@ -66,10 +66,6 @@ The ESP32-S3-WROOM-1-N4 is the better choice for controlling a NEMA 17 stepper m
 | **Programming & Debugging** | 2–4 |
 
 
-## Reference
-For more details, check the [ESP32-S3-WROOM-1 datasheet](https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf).
-
-
 ### Power Supply & Regulation
 | Component | Pros | Cons | Cost | Datasheet/Buy Link |
 |-----------|------|------|------|--------------------|
@@ -78,7 +74,7 @@ For more details, check the [ESP32-S3-WROOM-1 datasheet](https://www.espressif.c
 
 ### Rationale for Selections
 - **Motor Selection:** NEMA 17 is chosen due to extensive documentation, ease of programming, and cost-effectiveness.
-- **DRV8825 Stepper Motor Driver:**  
+- **TMC2130 Stepper Motor Driver:**  
 - **Microcontroller:** ESP32-S3 is selected due to its strong wireless capabilities and sufficient GPIOs for the project.
 - **Sensor:** BNO085 is optimal due to its accuracy and built-in fusion algorithms, reducing processing overhead.
 - **Power Regulation:** MP1584 is chosen for efficiency in voltage regulation, ensuring stable operation.

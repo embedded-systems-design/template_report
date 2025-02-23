@@ -1,4 +1,4 @@
-title: Schematic
+title: Schematic/Power Budget
 ---
 
 ## Schematic WI-FI Two-Way Internet Communication Using MQTT

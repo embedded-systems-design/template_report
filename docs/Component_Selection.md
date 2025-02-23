@@ -83,7 +83,7 @@ title: Component Selection
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | ![](image1.png)<br>Option 1.<br> PJ-018H<br>[link to product](https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices-/PJ-018H/1644506?gQT=1)                 | \* only has two prongs<br>\* has a very flexable votlage range input<br> \*Handles high amperage                                           | \* slightly more expensive<br>\* |
 | ![](image3.png)<br>\* Option 2. <br>\*PJ-006B <br>\* $1.49/each <br>\* [Link to product](https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices-/PJ-006B/408455?gQT=1) | \* resists alot of back EMF <br>\* Is rated for 200V <br> \* can be bought in bulk for a discount| * Its a larger capacitor <br>\* 
-| ![](image3.png)<br>\* Option 3. <br>\*DCJ250-05-A-K1-A<br>\* $1.41/each <br>\* [Link to product](https://www.digikey.com/en/products/detail/gct/DCJ250-05-A-K1-A/9859679?gQT=1) | \* Surface mount<br>\* smallest size <br>\* good voltage rating <br> | \* most expensive otion <br>                                                       ||
+| ![](image3.png)<br>\* Option 3. <br>\*DCJ250-05-A-K1-A<br>\* $1.41/each <br>\* [Link to product](https://www.digikey.com/en/products/detail/gct/DCJ250-05-A-K1-A/9859679?gQT=1) | \* Surface mount<br>\* smallest size <br>\* good voltage rating <br> | \* most expensive option <br>                                                       ||
 
 **Choice:** Option 3: DCJ250-05-A-K1-A
 
@@ -99,12 +99,12 @@ title: Component Selection
 
 | **Solution**                                                                                                                                                                                      | **Pros**                                                                                                                                    | **Cons**                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| ![](image1.png)<br>Option 1.<br>L6R06H-120<br>[link to product](http://digikey.com/en/products/detail/tri-mag-llc/L6R06H-120/7682617?gQT=1)                 | \* SHort wire reach <br>\*Has very low current output which reduces the chances of EMF<br> \*THe ceapest option                                           | \*worst quality plug<br>\* |
-| ![](image3.png)<br>\* Option 2. <br>\*PJ-006B <br>\* $1.49/each <br>\* [Link to product](https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices-/PJ-006B/408455?gQT=1) | \* resists alot of back EMF <br>\* Is rated for 200V <br> \* can be bought in bulk for a discount| * Its a larger capacitor <br>\* 
-| ![](image3.png)<br>\* Option 3. <br>\*DCJ250-05-A-K1-A<br>\* $1.41/each <br>\* [Link to product](https://www.digikey.com/en/products/detail/gct/DCJ250-05-A-K1-A/9859679?gQT=1) | \* Surface mount<br>\* smallest size <br>\* good voltage rating <br> | \* most expensive otion <br>                                                       ||
+| ![](image1.png)<br>Option 1.<br>L6R06H-120<br>\* $6.75/each <br>\*[link to product](http://digikey.com/en/products/detail/tri-mag-llc/L6R06H-120/7682617?gQT=1)                 | \* SHort wire reach <br>\*Has very low current output which reduces the chances of EMF<br> \*The cheapest option                                           | \*worst quality plug<br>\* |
+| ![](image3.png)<br>\* Option 2. <br>WDU12-100<br>\* $10.73/each <br>\* [Link to product](https://www.digikey.com/en/products/detail/triad-magnetics/WDU12-100/6819553?gQT=1) | \*Low power surges <br>\* fits the selected barrel jack port <br> | * Its a larger plug <br>\* 
+| ![](image3.png)<br>\* Option 3. <br>\*L6R12-120<br>\* $8.52/each <br>\* [Link to product](https://www.digikey.com/en/products/detail/tri-mag-llc/L6R12-120/7682631?gQT=1) | \* can supply more current if needed<br>\* can operate in high tempuratures <br> | \*needs to be regulated because of high current capability <br>                                                       ||
 
-**Choice:** Option 3: DCJ250-05-A-K1-A
+**Choice:** Option 2: WDU12-100
 
-**Rationale:** Its the only one that incorporates surface mounting.
+**Rationale:** This product fits the systems needs with its voltage, low current output, and reliable documentation.
 
 

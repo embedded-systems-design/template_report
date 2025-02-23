@@ -9,3 +9,6 @@ title: Schematic
 
 [WIFI_Schematic_1.zip](https://github.com/user-attachments/files/18918472/WIFI_Schematic_1.zip)
 [WIFI Schematic.pdf](https://github.com/user-attachments/files/18918481/WIFI.Schematic.pdf)
+
+
+This schematic meets the project's outlined requirements by communicating with the MQTT web server, receiving data, and displaying the values across various locations.

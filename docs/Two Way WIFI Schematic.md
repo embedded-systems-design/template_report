@@ -12,3 +12,10 @@ title: Schematic
 
 
 This schematic meets the project's outlined requirements by communicating with the MQTT web server, receiving data, and displaying the values across various locations.
+
+
+
+
+![Power Budget](<img width="587" alt="image" src="https://github.com/user-attachments/assets/85ebae71-3276-4217-8757-6ee3ee9d6f9d" />
+)
+

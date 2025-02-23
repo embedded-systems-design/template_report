@@ -2,6 +2,10 @@
 title: Component Selection
 ---
 
+## Roles and Responsibilities
+
+My job is to develop the web server and transmit data over Wi-Fi. The listed components are used to regulate the incoming voltage to my ESP32 device, ensuring reliable message transmission.
+
 
 
 **Voltage regulator**

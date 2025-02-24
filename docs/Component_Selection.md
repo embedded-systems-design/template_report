@@ -8,7 +8,7 @@ My job is to develop the web server and transmit data over Wi-Fi. The listed com
 
 
 
-**Voltage regulator**
+**Voltage regulators**
 
 
 <img width="520" alt="image" src="https://github.com/user-attachments/assets/db8827f1-837b-48e7-bb0c-9ebf52cdeffb" />
@@ -28,7 +28,7 @@ My job is to develop the web server and transmit data over Wi-Fi. The listed com
 
 
 
-**Diodes**
+**Schottky Diodes**
 
 ![image](https://github.com/user-attachments/assets/f4fa20fe-170e-4cdf-a20c-d72a22ec1989)
 
@@ -45,7 +45,7 @@ My job is to develop the web server and transmit data over Wi-Fi. The listed com
 
 
 
-**100 uF 50V Capacitor**
+**100 uF 50V Capacitors**
 
 
 ![image](https://github.com/user-attachments/assets/b2729910-1512-41d4-968a-5cf35018781b)
@@ -64,7 +64,7 @@ My job is to develop the web server and transmit data over Wi-Fi. The listed com
 
 
 
-**330 uF 10V Capacitor**
+**330 uF 10V Capacitors**
 
 ![image](https://github.com/user-attachments/assets/8fb857aa-bbd6-4fc9-adc2-7ea65d496305)
 
@@ -81,7 +81,7 @@ My job is to develop the web server and transmit data over Wi-Fi. The listed com
 
 
 
-**220 uH Inductorr**
+**220 uH Inductors**
 
 ![image](https://github.com/user-attachments/assets/3c6bf2ab-0947-4106-968e-380dce028a48)
 

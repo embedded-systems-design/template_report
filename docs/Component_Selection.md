@@ -10,6 +10,10 @@ My job is to develop the web server and transmit data over Wi-Fi. The listed com
 
 **Voltage regulator**
 
+
+![image](https://github.com/user-attachments/assets/009b5012-767f-49b3-a916-c51b441b53a7)
+
+
 | **Solution**                                                                                                                                                                                      | **Pros**                                                                                                                                    | **Cons**                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | ![](image1.png)<br>Option 1.<br> LM2575T-3.3G Voltage regulator<br>$2.99/each<br>[link to product](https://www.digikey.com/en/products/detail/onsemi/LM2575T-3-3G/1476700)                 | \* Its pretty inexpensive<br>\* Compatable with ESP32<br>\*                                                                                           | \* This is not surface mount. |
@@ -25,6 +29,9 @@ My job is to develop the web server and transmit data over Wi-Fi. The listed com
 
 **Diodes**
 
+![image](https://github.com/user-attachments/assets/f4fa20fe-170e-4cdf-a20c-d72a22ec1989)
+
+
 | **Solution**                                                                                                                                                                                      | **Pros**                                                                                                                                    | **Cons**                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | ![](image1.png)<br>Option 1.<br> 1N5819HWQ-7-F<br>$0.30/each<br>[link to product](https://www.digikey.com/en/products/detail/diodes-incorporated/1N5819HWQ-7-F/10294862)                 | \* Has many low voltage applications<br>\* Can handle strong current spikes<br>\* Meets surface mount constraint of project                                               | \* Requires external surface mount soldering<br>\*Cant handle alot of current|
@@ -38,6 +45,10 @@ My job is to develop the web server and transmit data over Wi-Fi. The listed com
 
 
 **100 uF 50V Capacitor**
+
+
+![image](https://github.com/user-attachments/assets/b2729910-1512-41d4-968a-5cf35018781b)
+
 
 | **Solution**                                                                                                                                                                                      | **Pros**                                                                                                                                    | **Cons**                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
@@ -54,19 +65,25 @@ My job is to develop the web server and transmit data over Wi-Fi. The listed com
 
 **330 uF 10V Capacitor**
 
+![image](https://github.com/user-attachments/assets/8fb857aa-bbd6-4fc9-adc2-7ea65d496305)
+
+
 | **Solution**                                                                                                                                                                                      | **Pros**                                                                                                                                    | **Cons**                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | ![](image1.png)<br>Option 1.<br> 593D337X9010E2TE3<br>$1.08/each<br>[link to product](https://www.mouser.com/ProductDetail/Vishay-Sprague/593D337X9010E2TE3?qs=sGAEpiMZZMsh%252B1woXyUXjwCXIFHUiAeHSeSfpcvZBjg%3D)                 | \* is made from aluminum<br>\* very high tempurature opperation<br>\* low capacitive resistance                                              | \* Slightly more expensive<br>\* |
 | ![](image3.png)<br>\* Option 2. <br>\*NACZ101M50V8X10.5TR15F <br>\* $1.49/each <br>\* [Link to product](https://www.elliottelectronicsupply.com/surface-mount-smt-electrolytic-capacitors.html?gQT=1) | \* resists alot of back EMF <br>\* Is rated for 200V <br> \* can be bought in bulk for a discount| * Its a larger capacitor <br>\* 
 | ![](image3.png)<br>\* Option 3. <br>\*EEE-FP1A331AP<br>\* $1.41/each <br>\* [Link to product](https://www.digikey.com/en/products/detail/panasonic-electronic-components/EEE-FP1A331AP/1701024?gQT=1) | \* Surface mount<br>\* smallest size <br>\* good voltage rating <br> | \* most expensive otion <br>                                                       ||
 
-**Choice:** Option 1 :NACZ101M50V8X10.5TR15F
+**Choice:** Option 3 :NACZ101M50V8X10.5TR15F
 
 **Rationale:** Its the smallest size and has unbeatable price.
 
 
 
 **220 uH Inductorr**
+
+![image](https://github.com/user-attachments/assets/3c6bf2ab-0947-4106-968e-380dce028a48)
+
 
 | **Solution**                                                                                                                                                                                      | **Pros**                                                                                                                                    | **Cons**                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
@@ -82,6 +99,9 @@ My job is to develop the web server and transmit data over Wi-Fi. The listed com
 
 
 **Barrel Jacks**
+
+![image](https://github.com/user-attachments/assets/b253155e-0ba7-4ef5-ba25-19de1b7001a8)
+
 
 | **Solution**                                                                                                                                                                                      | **Pros**                                                                                                                                    | **Cons**                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
@@ -107,8 +127,8 @@ My job is to develop the web server and transmit data over Wi-Fi. The listed com
 | ![](image3.png)<br>\* Option 2. <br>WDU12-100<br>\* $10.73/each <br>\* [Link to product](https://www.digikey.com/en/products/detail/triad-magnetics/WDU12-100/6819553?gQT=1) | \*Low power surges <br>\* fits the selected barrel jack port <br> | * Its a larger plug <br>\* 
 | ![](image3.png)<br>\* Option 3. <br>\*L6R12-120<br>\* $8.52/each <br>\* [Link to product](https://www.digikey.com/en/products/detail/tri-mag-llc/L6R12-120/7682631?gQT=1) | \* can supply more current if needed<br>\* can operate in high tempuratures <br> | \*needs to be regulated because of high current capability <br>                                                       ||
 
-**Choice:** Option 2: WDU12-100
+**Choice:** Option 3: L6R12-120
 
-**Rationale:** This product fits the systems needs with its voltage, low current output, and reliable documentation.
+**Rationale:** This product fits the systems needs with its voltage, land reliable documentation.
 
 

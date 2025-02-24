@@ -121,6 +121,9 @@ My job is to develop the web server and transmit data over Wi-Fi. The listed com
 
 **wall mounted power supply**
 
+![image](https://github.com/user-attachments/assets/d91d529e-a043-42c2-bc5a-8fb4e10c9c47)
+
+
 | **Solution**                                                                                                                                                                                      | **Pros**                                                                                                                                    | **Cons**                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | ![](image1.png)<br>Option 1.<br>L6R06H-120<br>\* $6.75/each <br>\*[link to product](http://digikey.com/en/products/detail/tri-mag-llc/L6R06H-120/7682617?gQT=1)                 | \* Short wire reach <br>\*Has very low current output which reduces the chances of EMF<br> \*The cheapest option                                           | \*worst quality plug<br>\* |

@@ -10,7 +10,7 @@ title: Ideation and Concept Generation
 ## Phase One
 ![Figure 1. JAM BOARD GROUPING IN BEGINNING](./damproject.jpg)
 ## Phase Two
-![Figure 2. JAM BOARD GROUPING SKETCH](../smallerProjsNotdam.jpg)
+![Figure 2. JAM BOARD GROUPING SKETCH](./smallerProjsNotdam.jpg)
 ## Final Phase
 ![Figure 3. FINAL JAM BOARD](./finalJamboard.jpg)
 # Design Sketch

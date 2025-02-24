@@ -11,7 +11,8 @@ My job is to develop the web server and transmit data over Wi-Fi. The listed com
 **Voltage regulator**
 
 
-![image](https://github.com/user-attachments/assets/009b5012-767f-49b3-a916-c51b441b53a7)
+<img width="520" alt="image" src="https://github.com/user-attachments/assets/db8827f1-837b-48e7-bb0c-9ebf52cdeffb" />
+
 
 
 | **Solution**                                                                                                                                                                                      | **Pros**                                                                                                                                    | **Cons**                                                                                            |
@@ -74,7 +75,7 @@ My job is to develop the web server and transmit data over Wi-Fi. The listed com
 | ![](image3.png)<br>\* Option 2. <br>\*NACZ101M50V8X10.5TR15F <br>\* $1.49/each <br>\* [Link to product](https://www.elliottelectronicsupply.com/surface-mount-smt-electrolytic-capacitors.html?gQT=1) | \* resists alot of back EMF <br>\* Is rated for 200V <br> \* can be bought in bulk for a discount| * Its a larger capacitor <br>\* 
 | ![](image3.png)<br>\* Option 3. <br>\*EEE-FP1A331AP<br>\* $1.41/each <br>\* [Link to product](https://www.digikey.com/en/products/detail/panasonic-electronic-components/EEE-FP1A331AP/1701024?gQT=1) | \* Surface mount<br>\* smallest size <br>\* good voltage rating <br> | \* most expensive otion <br>                                                       ||
 
-**Choice:** Option 3 :NACZ101M50V8X10.5TR15F
+**Choice:** Option 3 : EEE-FP1A331AP<br
 
 **Rationale:** Its the smallest size and has unbeatable price.
 

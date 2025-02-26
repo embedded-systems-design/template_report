@@ -68,6 +68,5 @@ title: Block Diagram
 
 #### Wifi Status Code Key
 
-Connected:     1
-Not Connected: 0
-
+<li>Connected:     1 </li>
+<li>Not Connected: 0 </li>

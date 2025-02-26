@@ -9,14 +9,18 @@ tags:
 
 - Project Name: Providing STEMS
 - Team 202
-- Frank Wade, Tyler Whittle, Luis Saenz, Alexander Dooley
+- Alexander Dooley, Frank Wade, Luis Saenz,  Tyler Whittle
 - Preparation Date: April 20, 2025
 - Spring 2025
 - ASU, EGR 314, Prof. Dan Aukes
 
 ## TEAM ORGANIZATION
 
-As technology becomes more advanced S.T.E.M. is being introduced to students sooner into their education. Although S.T.E.M. stands for science, technology, engineering, and math, these fields aren't independent, but frequently interact with each other.Team 202 is to design and create a mechanical device that showcases some S.T.E.M. related principle. *It is team 202 mission to take S.T.E.M concepts found in education and deliver them in a manner students would understand*. The device's intention is to inspire students pursuing S.T.E.M. and enhance their perspective about the fields of S.T.E.M.. 
+On September 12th, 1962, John F Kennedy spoke to the nation and told them that we are going to the moon before the end of the decade. Within this speech, President Kennedy also said “The growth of our science and education will be enriched by new knowledge of our universe and environment, by new techniques of learning and mapping and observation, by new tools and computers for industry, medicine, the home as well as the school. Technical institutions, such as Rice, will reap the harvest of these gains,”. Today, education gives forth STEM to help the students of today, follow in the footsteps of their grandfathers. Through the learning of science, technology, engineering and mathematics, like those who touched the heavens, the generation of tomorrow might one day take humanity somewhere yet to feel the human touch. 
 
-To achieve our task the team got together to discuss goals for the project. The team's goal for the device is that it functions autonomously, or until given another task. One of our goals as a team is to further develop our skills in engineering and robotics allowing us to be more effective in our chosen profession in the future. The team will assign roles to operate more smoothly, each member will practice effective communication and be accountable for the task they are given.
+Grains of curiosity and dreams, sprinkled among the seeds of STEM, are cultivated by both teachers and professors. 
+> To aid the growth of these grains, the mission of Team 202 is to take S.T.E.M concepts found in education and deliver them in a manner students would understand. 
+Team 202 will design a mechanical device to show scientific principles of energy conversion between different states, that also highlights the use of technology and engineering. Our goal is to add more seeds of curiosity and try to inspire more students to pursue more STEM related jobs. 
+
+To achieve our task, Team 202 got together to discuss end goals for the project, deciding on a device that can task driven or function autonomously. By doing this, Team 202 can also develop our own skills in engineering and robotics, increasing our effectiveness as engineers. The team will assign roles to operate more smoothly, each member will practice effective communication through various means and be accountable for the task they are given
 

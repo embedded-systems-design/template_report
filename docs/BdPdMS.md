@@ -65,3 +65,9 @@ title: Block Diagram
 | Byte 1 (char) | Byte 2 (char) | Byte 3 (char) | Byte 4 (char) | Byte 5-6 (char) | Byte 7 (uint8_t) | Byte 8 (char) | Byte 9 (char) |
 | --------------| ------------- | ------------- | ------------- | --------------- | ---------------- | -------------- | --------- |
 | A | Z | Source ID (char)| Dest ID (char)| Message Type (char)| X(uint8_t) | B | Y |
+
+#### Wifi Status Code Key
+
+Connected:     1
+Not Connected: 0
+

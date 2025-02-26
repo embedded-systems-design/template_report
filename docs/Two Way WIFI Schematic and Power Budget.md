@@ -3,10 +3,12 @@ title: Schematic/Power Budget
 
 ## Schematic WI-FI Two-Way Internet Communication Using MQTT
 
-![WIFI Schematic](https://github.com/user-attachments/assets/8e655569-c88e-4c5c-a9be-870b18bf4ed9)
+<img width="575" alt="image" src="https://github.com/user-attachments/assets/2057e4ff-bf2a-4eeb-9baa-70b857ee313a" />
+
 
 [WIFI_Schematic_1.zip](https://github.com/user-attachments/files/18918472/WIFI_Schematic_1.zip)  
-[WIFI Schematic.pdf](https://github.com/user-attachments/files/18918481/WIFI.Schematic.pdf)
+[WIFI_Schematic.pdf](https://github.com/user-attachments/files/18998511/Screenshot.2025-02-26.155826.pdf)
+
 
 This schematic meets the project's outlined requirements by communicating with the MQTT web server, receiving data, and displaying the values across various locations.
 

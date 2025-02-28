@@ -6,3 +6,4 @@ My name is Zack Gald, and I am responsible for the stepper motor component of th
 
 ----------------------------------------
 
+Team 203 Website: [link](https://egr314-2025-s-203.github.io/Team203.github.io/)

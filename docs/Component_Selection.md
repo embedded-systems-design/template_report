@@ -10,8 +10,13 @@ My job is to develop the web server and transmit data over Wi-Fi. The listed com
 
 **Voltage regulators**
 
+![image](https://github.com/user-attachments/assets/5ae4cc0c-8b56-4e8a-9589-6d1c2d569565)
+
+![image](https://github.com/user-attachments/assets/56fbe5fe-533a-4833-922e-5d5c4d552a0e)
 
 <img width="520" alt="image" src="https://github.com/user-attachments/assets/db8827f1-837b-48e7-bb0c-9ebf52cdeffb" />
+
+
 
 
 

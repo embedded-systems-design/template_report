@@ -10,10 +10,7 @@ My job is to develop the web server and transmit data over Wi-Fi. The listed com
 
 **Voltage regulators**
 
-![image](https://github.com/user-attachments/assets/196ec5c0-4c49-496c-8b56-2fd2efdfeac0)
-
-![image](https://github.com/user-attachments/assets/56fbe5fe-533a-4833-922e-5d5c4d552a0e)
-
+#Selected Option
 ![image](https://github.com/user-attachments/assets/1789c7bf-342d-4fa5-81e5-5079c7d915ac)
 
 
@@ -36,9 +33,9 @@ My job is to develop the web server and transmit data over Wi-Fi. The listed com
 
 **Schottky Diodes**
 
+#Selected Option
 ![image](https://github.com/user-attachments/assets/6bf5134f-053d-4cff-97d8-07dae1bb61ea)
-![image](https://github.com/user-attachments/assets/cf48af54-35aa-4dfe-afd5-e8442d70d2b8)
-![image](https://github.com/user-attachments/assets/29d6a4fd-d6a4-41c3-96d9-3a6bebcc2725)
+
 
 
 
@@ -58,8 +55,7 @@ My job is to develop the web server and transmit data over Wi-Fi. The listed com
 
 **100 uF 50V Capacitors**
 
-![image](https://github.com/user-attachments/assets/f146918a-f5f1-42b1-af26-6e385ed8e068)
-![image](https://github.com/user-attachments/assets/80dc7433-d2c0-4fd3-9966-93a9a192280f)
+#Selected Option
 ![image](https://github.com/user-attachments/assets/7d229d53-6f15-4180-902a-88679ff16230)
 
 
@@ -78,7 +74,7 @@ My job is to develop the web server and transmit data over Wi-Fi. The listed com
 
 
 **330 uF 10V Capacitors**
-
+#Selected Option
 ![image](https://github.com/user-attachments/assets/8fb857aa-bbd6-4fc9-adc2-7ea65d496305)
 
 
@@ -95,7 +91,7 @@ My job is to develop the web server and transmit data over Wi-Fi. The listed com
 
 
 **220 uH Inductors**
-
+#Selected Option
 ![image](https://github.com/user-attachments/assets/3c6bf2ab-0947-4106-968e-380dce028a48)
 
 
@@ -113,7 +109,7 @@ My job is to develop the web server and transmit data over Wi-Fi. The listed com
 
 
 **Barrel Jacks**
-
+#Selected Option
 ![image](https://github.com/user-attachments/assets/b253155e-0ba7-4ef5-ba25-19de1b7001a8)
 
 
@@ -134,7 +130,7 @@ My job is to develop the web server and transmit data over Wi-Fi. The listed com
 
 
 **wall mounted power supply**
-
+#Selected Option
 ![image](https://github.com/user-attachments/assets/d91d529e-a043-42c2-bc5a-8fb4e10c9c47)
 
 

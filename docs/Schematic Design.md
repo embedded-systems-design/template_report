@@ -5,6 +5,9 @@ Schematic is for the Stepper motor subsystem
 
 Zip file: [firstschematicfeb27.zip](https://github.com/user-attachments/files/19020154/firstschematicfeb27.zip)
 
+PDF file: [motorschematic1](https://github.com/user-attachments/assets/77e95345-69eb-439d-b6ea-bce9ee8f3d99)
+
+
 
 
 

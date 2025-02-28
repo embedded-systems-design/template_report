@@ -1,7 +1,7 @@
 ## Individual Block Diagram
 
+![Blockfeb27 drawio](https://github.com/user-attachments/assets/d67d30dd-6656-402e-9e2c-0ca41e546266)
 
-![1740170616127-5902ae85-25ed-4bbe-becf-65e6c5cfd153_1](https://github.com/user-attachments/assets/d2a1f525-6abc-4f04-a204-6f4a29bf963c)
 
 
 -------------------------------------------------

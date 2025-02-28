@@ -10,11 +10,12 @@ My job is to develop the web server and transmit data over Wi-Fi. The listed com
 
 **Voltage regulators**
 
-![image](https://github.com/user-attachments/assets/5ae4cc0c-8b56-4e8a-9589-6d1c2d569565)
+![image](https://github.com/user-attachments/assets/196ec5c0-4c49-496c-8b56-2fd2efdfeac0)
 
 ![image](https://github.com/user-attachments/assets/56fbe5fe-533a-4833-922e-5d5c4d552a0e)
 
-<img width="520" alt="image" src="https://github.com/user-attachments/assets/db8827f1-837b-48e7-bb0c-9ebf52cdeffb" />
+![image](https://github.com/user-attachments/assets/1789c7bf-342d-4fa5-81e5-5079c7d915ac)
+
 
 
 
@@ -35,7 +36,12 @@ My job is to develop the web server and transmit data over Wi-Fi. The listed com
 
 **Schottky Diodes**
 
-![image](https://github.com/user-attachments/assets/f4fa20fe-170e-4cdf-a20c-d72a22ec1989)
+![image](https://github.com/user-attachments/assets/6bf5134f-053d-4cff-97d8-07dae1bb61ea)
+![image](https://github.com/user-attachments/assets/cf48af54-35aa-4dfe-afd5-e8442d70d2b8)
+![image](https://github.com/user-attachments/assets/29d6a4fd-d6a4-41c3-96d9-3a6bebcc2725)
+
+
+
 
 
 | **Solution**                                                                                                                                                                                      | **Pros**                                                                                                                                    | **Cons**                                                                                            |
@@ -52,8 +58,10 @@ My job is to develop the web server and transmit data over Wi-Fi. The listed com
 
 **100 uF 50V Capacitors**
 
+![image](https://github.com/user-attachments/assets/f146918a-f5f1-42b1-af26-6e385ed8e068)
+![image](https://github.com/user-attachments/assets/80dc7433-d2c0-4fd3-9966-93a9a192280f)
+![image](https://github.com/user-attachments/assets/7d229d53-6f15-4180-902a-88679ff16230)
 
-![image](https://github.com/user-attachments/assets/b2729910-1512-41d4-968a-5cf35018781b)
 
 
 | **Solution**                                                                                                                                                                                      | **Pros**                                                                                                                                    | **Cons**                                                                                            |

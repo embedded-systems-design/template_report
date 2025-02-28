@@ -95,6 +95,10 @@ B.
 | **PWM**    | 10           | 1        | *                              |
 | **ICSP**   | 1            | 1        | RB6 (PGC), RB7 (PGD), MCLR    |
 
+
+![MPlabsnap](https://github.com/user-attachments/assets/7c83ba98-b304-4525-8ae1-14bd033ae50f)
+
+
 ## Team Role and Responsibilities
 
 My role as a member of this team is the **actuator**, using a **stepper motor** to create a waveform using a string. I am responsible for ensuring precise control of the motor to achieve the desired motion and vibration needed for sound generation. 

@@ -1,3 +1,18 @@
 ## Schematic Design
+Schematic is for the Stepper motor subsystem 
 
-![motorschemic](https://github.com/user-attachments/assets/3f13fa68-c1b2-4333-b3bf-938d411fb1d1)
+![motorschematic1_page-0001](https://github.com/user-attachments/assets/34467786-34d1-4d06-9a48-890eb861097d)
+
+Zip file: [firstschematicfeb27.zip](https://github.com/user-attachments/files/19020154/firstschematicfeb27.zip)
+
+
+
+
+
+## Power Budget
+
+
+
+![Untitled spreadsheet - Sheet1 (1)_page-0001 (1)](https://github.com/user-attachments/assets/33cfeae8-e38f-417e-bd09-71f148c52443)
+
+The 2 A is enough to support the 12 V rail but it doesnt have the full safety net of 25%. Will keep an eye during testing. 

@@ -1,8 +1,8 @@
 
 Messages Recieved
 
-  ##Message Type 3 (Voltage Readings)
-  ##Recieved and displayed on phone
+  ## Message Type 3 (Voltage Readings)
+  ## Recieved and displayed on phone
 
 |                      | Byte 1                                | Byte 2-5 |
 |----------------------|---------------------------------------|-------|
@@ -18,9 +18,11 @@ Messages Recieved
 
 Messages Sent
 
- ##Message Type 1 (automatic/manual toggle)
- ##message is uesed to toggle motor function from state 0 to state 1
-|                      | Byte 1                                
+ ## Message Type 1 (automatic/manual toggle)
+ ## message is uesed to toggle motor function from state 0 to state 1
+
+ 
+|                      | Byte 1                                |
 |----------------------|---------------------------------------|
 | Variable Name        | auto_toggle                          | 
 | Variable Type        | uint8_t                              | 

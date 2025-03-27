@@ -14,7 +14,7 @@ title: Block Diagram
 
 ## Message Structure
 
-| Message Type <br /> byte 1-2 <br /> (char)            | Description |
+| Message Type <br /> 1 Byte <br /> (int8_t)            | Description |
 | --------------------------------------------- | ----------- |
 |1                                              | Set motor X in Y in direction |
 |2                                              | Print sensor X value Y |
@@ -27,51 +27,51 @@ title: Block Diagram
 
 ### Message Type 1:
 
-| Byte 1 (uint8_t) | Byte 2 (uint8_t) | Byte 3 (char) | Byte 4 (char) | Byte 5-6 (char) | Byte 7 (char) | Byte 8 (char) | Byte 9 (uint8_t) | Byte 10 (uint8_t) |
+| Byte 1 (char) | Byte 2 (char) | Byte 3 (char) | Byte 4 (char) | Byte 6 (int8_t) | Byte 6 (char) | Byte 7 (char) | Byte 8 (char) | Byte 9 (char) |
 | --------------| ------------- | ------------- | ------------- | ------------- | --------------- | ---------------- | -------------- | ------------ |
-| 0x41 | 0x5a | Source ID (char)| Dest ID (char)| Message Type (char)|  X(char) | Y(char) | 0x59 | 0x42 |
+| A | Z | Source ID (char)| Dest ID (char)| Message Type (int8_t)|  X(char) | Y(char) | Y | B |
 
 ### Message Type 2:
 
-| Byte 1 (uint8_t) | Byte 2 (uint8_t) | Byte 3 (char) | Byte 4 (char) | Byte 5-6 (char) | Byte 7 (char) | Byte 8 (char) | Byte 9 (uint8_t) | Byte 10 (uint8_t) |
+| Byte 1 (char) | Byte 2 (char) | Byte 3 (char) | Byte 4 (char) | Byte 5 (int8_t) | Byte 6 (char) | Byte 7 (int8_t) | Byte 8 (char) | Byte 9 (char) |
 | --------------| ------------- | ------------- | ------------- | ------------- | --------------- | ---------------- | -------------- | ------------ |
-| 0x41 | 0x5a | Source ID (char)| Dest ID (char)| Message Type (char)| X(char) | Y(char) | 0x59 | 0x42 |
+| A | Z | Source ID (char)| Dest ID (char)| Message Type (int8_t)| X(char) | Y(int8_t) | Y | B |
 
 ### Message Type 3:
 
-| Byte 1 (uint8_t) | Byte 2 (uint8_t) | Byte 3 (char) | Byte 4 (char) | Byte 5-6 (char) | Byte 7-55 (char) | Byte 56 (uint8_t) | Byte 57 (uint8_t) |
+| Byte 1 (char) | Byte 2 (char) | Byte 3 (char) | Byte 4 (char) | Byte 5 (int8_t) | Byte 6-55 (char) | Byte 56 (char) | Byte 57 (char) |
 | --------------| ------------- | ------------- | ------------- | --------------- | ---------------- | -------------- | --------- |
-| 0x41 | 0x5a | Source ID (char)| Dest ID (char)| Message Type (char)| String | 0x59 | 0x42 |
+| A | Z | Source ID (char)| Dest ID (char)| Message Type (int8_t)| String | Y | B |
 
 ### Message Type 4:
 
-| Byte 1 (uint8_t) | Byte 2 (uint8_t) | Byte 3 (char) | Byte 4 (char) | Byte 5-6 (char) | Byte 7 (uint8_t) | Byte 8 (uint8_t) | Byte 9 (uint8_t) |
+| Byte 1 (char) | Byte 2 (char) | Byte 3 (char) | Byte 4 (char) | Byte 5 (int8_t) | Byte 6 (uint8_t) | Byte 7 (char) | Byte 8 (char) |
 | --------------| ------------- | ------------- | ------------- | --------------- | ---------------- | -------------- | --------- |
-| 0x41 | 0x5a | Source ID (char)| Dest ID (char)| Message Type (char)| X(uint8_t) | 0x59 | 0x42 |
+| A | Z  | Source ID (char)| Dest ID (char)| Message Type (int8_t)| X(uint8_t) | Y | B |
 
 ### Message Type 5:
 
-| Byte 1 (uint8_t) | Byte 2 (uint8_t) | Byte 3 (char) | Byte 4 (char) | Byte 5-6 (char) | Byte 7 (char) | Byte 8 (uint8_t) | Byte 9 (uint8_t) |
+| Byte 1 (char) | Byte 2 (char) | Byte 3 (char) | Byte 4 (char) | Byte 5 (int8_t) | Byte 6 (char) | Byte 7 (char) | Byte 8 (char) |
 | --------------| ------------- | ------------- | ------------- | --------------- | ---------------- | -------------- | --------- |
-| 0x41 | 0x5a | Source ID (char)| Dest ID (char)| Message Type (char)|  X(char) | 0x59 | 0x42 |
+| A | Z | Source ID (char)| Dest ID (char)| Message Type (int8_t)|  X(char) | Y | B |
 
 ### Message Type 6:
 
-| Byte 1 (uint8_t) | Byte 2 (uint8_t) | Byte 3 (char) | Byte 4 (char) | Byte 5-6 (char) | Byte 7 (uint8_t) | Byte 8 (uint8_t) | Byte 9 (uint8_t) |
+| Byte 1 (char) | Byte 2 (char) | Byte 3 (char) | Byte 4 (char) | Byte 5 (int8_t) | Byte 6 (uint8_t) | Byte 7 (char) | Byte 7 (char) |
 | --------------| ------------- | ------------- | ------------- | --------------- | ---------------- | -------------- | --------- |
-| 0x41 | 0x5a| Source ID (char)| Dest ID (char)| Message Type (char)| X(uint8_t) | 0x59 | 0x42 |
+| A | Z | Source ID (char)| Dest ID (char)| Message Type (int8_t)| X(uint8_t) | Y | B |
 
 ### Message Type 7:
 
-| Byte 1 (uint8_t) | Byte 2 (uint8_t) | Byte 3 (char) | Byte 4 (char) | Byte 5-6 (char) | Byte 7 (uint8_t) | Byte 8 (uint8_t) | Byte 9 (uint8_t) |
+| Byte 1 (char) | Byte 2 (char) | Byte 3 (char) | Byte 4 (char) | Byte 5 (int8_t) | Byte 6 (uint8_t) | Byte 7 (char) | Byte 8 (char) |
 | --------------| ------------- | ------------- | ------------- | --------------- | ---------------- | -------------- | --------- |
-| 0x41 | 0x5a | Source ID (char)| Dest ID (char)| Message Type (char)| X(uint8_t) | 0x59 | 0x42 |
+| A | Z | Source ID (char)| Dest ID (char)| Message Type (int8_t)| X(uint8_t) | Y | B |
 
 ### Message Type 8:
 
-| Byte 1 (uint8_t) | Byte 2 (uint8_t) | Byte 3 (char) | Byte 4 (uint8_t) | Byte 5-6 (char) | Byte 7-55 (char) | Byte 56 (uint8_t) | Byte 57 (uint8_t) |
+| Byte 1 (char) | Byte 2 (char) | Byte 3 (char) | Byte 4 (uint8_t) | Byte 5 (int8_t) | Byte 6-55 (char) | Byte 56 (char) | Byte 57 (char) |
 | --------------| ------------- | ------------- | ------------- | --------------- | ---------------- | -------------- | --------- |
-| 0x41 | 0x5a | Source ID (char) | 0x58 | Message Type (char)| String | 0x59 | 0x42 |
+| A | Z | Source ID (char) | 0x58 | Message Type (int8_t)| String | Y | B |
 
 #### Wifi Status Code Key
 

@@ -76,8 +76,8 @@ title: Block Diagram
 ### Message Type 8:
 
 | Byte 1 (char) | Byte 2 (char) | Byte 3 (char) | Byte 4 (uint8_t) | Byte 5 (int8_t) | Byte 6-55 (string) | Byte 56 (char) | Byte 57 (char) |
-| --------------| ------------- | ------------- | ------------- | --------------- | ---------------- | -------------- | --------- |
-| A | Z | Source ID (char) | 0x58 | Message Type (int8_t)| String | Y | B |
+| --------------| ------------- | ------------- | ------------- | --------------- | ---------------- | -------------- | ------------ |
+| A | Z | Source ID (char) | X | Message Type (int8_t)| String | Y | B |
 
 #### Wifi Status Code Key
 

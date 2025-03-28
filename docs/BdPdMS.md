@@ -25,6 +25,12 @@ title: Block Diagram
 |7                                              | Sensor Status, X |
 |8                                              | Broadcast |
 
+### Team ID
+
+|  | Alex | Luis | Frank | Tyler |
+|--|------|------|-------|-------| 
+|Team Id (char) | 'a' | 'b' | 'c' | 'd'|
+
 ### Message Type 1:
 
 | Byte 1 (char) | Byte 2 (char) | Byte 3 (char) | Byte 4 (char) | Byte 6 (int8_t) | Byte 6 (char) | Byte 7 (char) | Byte 8 (char) | Byte 9 (char) |

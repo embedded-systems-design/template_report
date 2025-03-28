@@ -5,9 +5,9 @@
 |------------------|-------------|-------------|-------------|
 | **Variable Name** | Motor_Speed          | Wave_Freq          | Wave_Length          |
 | **Variable Type** | uint8_t     (1)     | uint8_t    (2)     | uint8_t    (3)      |
-| **Min Value**      | 0          | .0012 Hz          | 1          |
-| **Max Value**      | 14 rpm          | .0104 Hz          | 4.1          |
-| **Example**        | 6.1 rpm          | .003 Hz          | 2 meters          |
+| **Min Value**      | 0          | 1/.0012 Hz          | 1          |
+| **Max Value**      | 14 rpm          | 1/.0104 Hz          | 4.1          |
+| **Example**        | 6.1 rpm          | 1/.003 Hz          | 2 meters          |
 
 ## Messages I Recieve 
 
@@ -15,9 +15,9 @@
 |------------------|-------------|-------------|-------------|
 | **Variable Name** | Motor_Speed          | Wave_Freq          | Wave_Length          |
 | **Variable Type** | uint8_t     (1)     | uint8_t    (2)     | uint8_t    (3)      |
-| **Min Value**      | 0          | .0012 Hz          | 1          |
-| **Max Value**      | 14 rpm          | .0104 Hz          | 4.1          |
-| **Example**        | 6.1 rpm          | .003 Hz          | 2 meters          |
+| **Min Value**      | 0          | 1/.0012 Hz          | 1          |
+| **Max Value**      | 14 rpm          | 1/.0104 Hz          | 4.1          |
+| **Example**        | 6.1 rpm          | 1/.003 Hz          | 2 meters          |
 
 ## Messages to whole team
 

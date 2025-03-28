@@ -4,7 +4,7 @@
 | **Type**         | **Byte 1** | **Byte 2** | **Byte 3** |
 |------------------|-------------|-------------|-------------|
 | **Variable Name** | Motor_Speed          | Wave_Freq          | Wave_Length          |
-| **Variable Type** | uint8_t          | uint8_t         | uint8_t          |
+| **Variable Type** | uint8_t     (1)     | uint8_t    (2)     | uint8_t    (3)      |
 | **Min Value**      | 0          | .0012 Hz          | 1          |
 | **Max Value**      | 14 rpm          | .0104 Hz          | 4.1          |
 | **Example**        | 6.1 rpm          | .003 Hz          | 2 meters          |
@@ -13,21 +13,21 @@
 
 | **Type**         | **Byte 1** | **Byte 2** | **Byte 3** |
 |------------------|-------------|-------------|-------------|
-| **Variable Name** | Wave_Freq          | ETA          | ETA          |
-| **Variable Type** | ETA          | ETA          | ETA          |
-| **Min Value**      | ETA          | ETA          | ETA          |
-| **Max Value**      | ETA          | ETA          | ETA          |
-| **Example**        | ETA          | ETA          | ETA          |
+| **Variable Name** | Motor_Speed          | Wave_Freq          | Wave_Length          |
+| **Variable Type** | uint8_t     (1)     | uint8_t    (2)     | uint8_t    (3)      |
+| **Min Value**      | 0          | .0012 Hz          | 1          |
+| **Max Value**      | 14 rpm          | .0104 Hz          | 4.1          |
+| **Example**        | 6.1 rpm          | .003 Hz          | 2 meters          |
 
 ## Messages to whole team
 
 | **Type**         | **Byte 1** | **Byte 2** | **Byte 3** |
 |------------------|-------------|-------------|-------------|
-| **Variable Name** | ETA          | ETA          | ETA          |
-| **Variable Type** | ETA          | ETA          | ETA          |
-| **Min Value**      | ETA          | ETA          | ETA          |
-| **Max Value**      | ETA          | ETA          | ETA          |
-| **Example**        | ETA          | ETA          | ETA          |
+| **Variable Name** | Motor_Speed          | Wave_Freq          | Wave_Length          |
+| **Variable Type** | uint8_t     (1)     | uint8_t    (2)     | uint8_t    (3)      |
+| **Min Value**      | 0          | .0012 Hz          | 1          |
+| **Max Value**      | 14 rpm          | .0104 Hz          | 4.1          |
+| **Example**        | 6.1 rpm          | .003 Hz          | 2 meters          |
 
 
 #include "project.h"

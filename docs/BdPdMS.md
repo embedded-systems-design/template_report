@@ -28,12 +28,12 @@ title: Block Diagram
 ### Team ID
 
 |  | Alex | Luis | Frank | Tyler |
-|--|------|------|-------|-------| 
+|--|------|------|-------|-------|
 |Team Id (char) | a | b | c | d |
 
 ### Message Type 1:
 
-| Byte 1 (char) | Byte 2 (char) | Byte 3 (char) | Byte 4 (char) | Byte 6 (int8_t) | Byte 6 (char) | Byte 7 (char) | Byte 8 (char) | Byte 9 (char) |
+| Byte 1 (char) | Byte 2 (char) | Byte 3 (char) | Byte 4 (char) | Byte 5 (int8_t) | Byte 6 (char) | Byte 7 (char) | Byte 8 (char) | Byte 9 (char) |
 | --------------| ------------- | ------------- | ------------- | ------------- | --------------- | ---------------- | -------------- | ------------ |
 | A | Z | Source ID (char)| Dest ID (char)| Message Type (int8_t)|  X(char) | Y(char) | Y | B |
 
@@ -75,7 +75,7 @@ title: Block Diagram
 
 ### Message Type 8:
 
-| Byte 1 (char) | Byte 2 (char) | Byte 3 (char) | Byte 4 (uint8_t) | Byte 5 (int8_t) | Byte 6-55 (string) | Byte 56 (char) | Byte 57 (char) |
+| Byte 1 (char) | Byte 2 (char) | Byte 3 (char) | Byte 4 (char) | Byte 5 (int8_t) | Byte 6-55 (string) | Byte 56 (char) | Byte 57 (char) |
 | --------------| ------------- | ------------- | ------------- | --------------- | ---------------- | -------------- | ------------ |
 | A | Z | Source ID (char) | X | Message Type (int8_t)| String | Y | B |
 

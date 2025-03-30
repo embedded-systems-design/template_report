@@ -1,6 +1,8 @@
 title: API
 ---
 
+# My Role
+EEach team member in the daisy chain phas a role in the daisy chain. Their message is denoted by their last name. (L for Larance and so on). My job is to handle the v as the WIFI is to display voltage, as well as pass on the mode change message to the HMI.
 
 ## Team Bytes
 | Byte | Function |
@@ -25,7 +27,7 @@ title: API
 |               | Byte 1         | Byte 2-5        |
 |---------------|----------------|-----------------|
 | Variable Name | voltage_sensor | voltage_reading |
-| Variable Type | char           | uint16_t           |
+| Variable Type | String         | uint16_t       |
 | Min Value     | V              | 0000           |
 | Max Value     | V              | 5400           |
 | Example       | V              | 2572           |
@@ -39,8 +41,8 @@ title: API
 
 |               | Byte 1      | Byte 2 |
 |---------------|-------------|--------|
-| Variable Name | mode | mode_toggle |  
-| Variable Type | char    |  uint8_t| 
+| Variable Name | mode        | mode_toggle |  
+| Variable Type | char        |  uint8_t| 
 | Min Value     | M           |   0|
 | Max Value     | M           |   1|
 | Example       | M           |   1|

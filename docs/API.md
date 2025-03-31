@@ -50,10 +50,10 @@ Each team member in the daisy chain phas a role in the daisy chain. Their messag
 
 |description      | example   |
 |---------------|-------------|
-| voltage '5' from 's' |  AZsV\x06YB           |
-| voltage '2' from 'm' |   AZmV\x02YB     |  
-| mode 1 from 's'    |   AZsM\x01YB         | 
-|  mode 0 from 's'     |  AZsM\x00YB          | 
+| voltage '5' sent to me |  AZlV\x06YB           |
+| voltage '2' sent to me |   AZlV\x02YB     |  
+| mode 1 for me  |   AZlM\x01YB         | 
+|  mode 0 for me     |  AZlM\x00YB          | 
 
 
 

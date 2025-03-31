@@ -50,7 +50,7 @@ Each team member in the daisy chain phas a role in the daisy chain. Their messag
 
 |description      | example   |
 |---------------|-------------|
-| voltage '5' from f|  AZfV\x06YB           |
+| voltage '5' from f|  AZfV\x05YB           |
 | voltage '2' from m |   AZmV\x02YB     |  
 | mode 1 from h |   AZhM\x01YB         | 
 |  mode from h    |  AZhM\x00YB          | 

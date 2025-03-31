@@ -43,4 +43,8 @@ Overall Example code: [AZ][SENDERID][RECEIVERID][MESSAGETYPE][VALUE][YB]
 | NA | 4 |
 
 ## Examples
-1) AZCZ101YB (Carter is sending Zack motor freq of 1)
+
+AZCZ11FYB   // Motor Frequency, 1F (31 in decimal)
+AZCZ21EYB   // Wavelength, 1E (30 in decimal)
+AZCZ300YB   // Motor Off
+AZCZ301YB   // Motor On

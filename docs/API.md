@@ -20,10 +20,10 @@ Each team member in the daisy chain phas a role in the daisy chain. Their messag
 
 <b><i>Received and Forwarded to MQTT</i></b>
 
-|               | Byte 1         | Byte 2-5        |
+|               | Byte 1         | Byte 2        |
 |---------------|----------------|-----------------|
 | Variable Name | voltage_sensor | voltage_reading |
-| Variable Type | char           | uint16_t       |
+| Variable Type | char           | uint8          |
 | Min Value     | V              | 0000           |
 | Max Value     | V              | 5400           |
 | Example       | V              | 2572           |
@@ -38,7 +38,7 @@ Each team member in the daisy chain phas a role in the daisy chain. Their messag
 |               | Byte 1      | Byte 2 |
 |---------------|-------------|--------|
 | Variable Name | mode        | mode_toggle |  
-| Variable Type | char        |  uint8_t| 
+| Variable Type | char        |  uint8| 
 | Min Value     | M           |   0|
 | Max Value     | M           |   1|
 | Example       | M           |   1|

@@ -50,8 +50,8 @@ Each team member in the daisy chain phas a role in the daisy chain. Their messag
 
 |description      | example   |
 |---------------|-------------|
-| recieved|  AZhlm0V5400YB          |
-| sent|   AZlfm0YB    |  
+| recieved|  AZhlM0V5400YB          |
+| sent|   AZlfM0YB    |  
 
 
 

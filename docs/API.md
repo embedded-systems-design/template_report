@@ -1,107 +1,46 @@
-## Message Compliance
+This page is to show messages and message types between team members
 
-## Messages I send
-| **Type**         | **Byte 1** | **Byte 2** | **Byte 3** |
-|------------------|-------------|-------------|-------------|
-| **Variable Name** | Motor_Speed          | Wave_Freq          | Wave_Length          |
-| **Variable Type** | uint8_t     (1)     | uint8_t    (2)     | uint8_t    (3)      |
-| **Min Value**      | 0          | 1/.0012 Hz          | 1          |
-| **Max Value**      | 14 rpm          | 1/.0104 Hz          | 4.1          |
-| **Example**        | 6.1 rpm          | 1/.003 Hz          | 2 meters          |
+Overall Example code: [AZ][SENDERID][RECEIVERID][MESSAGETYPE][VALUE][YB]
 
-## Messages I Recieve 
+## Parts
 
-| **Type**         | **Byte 1** | **Byte 2** | **Byte 3** |
-|------------------|-------------|-------------|-------------|
-| **Variable Name** | Motor_Speed          | Wave_Freq          | Wave_Length          |
-| **Variable Type** | uint8_t     (1)     | uint8_t    (2)     | uint8_t    (3)      |
-| **Min Value**      | 0          | 1/.0012 Hz          | 1          |
-| **Max Value**      | 14 rpm          | 1/.0104 Hz          | 4.1          |
-| **Example**        | 6.1 rpm          | 1/.003 Hz          | 2 meters          |
+[AZ]: This is the start of the message. This tells the the controller to start reading the message, all messages needs this to be read. 
 
-## Messages to whole team
+[SENDERID]: This helps others see who sent the message. 
 
-| **Type**         | **Byte 1** | **Byte 2** | **Byte 3** |
-|------------------|-------------|-------------|-------------|
-| **Variable Name** | Motor_Speed          | Wave_Freq          | Wave_Length          |
-| **Variable Type** | uint8_t     (1)     | uint8_t    (2)     | uint8_t    (3)      |
-| **Min Value**      | 0          | .0012 Hz          | 1          |
-| **Max Value**      | 14 rpm          | .0104 Hz          | 4.1          |
-| **Example**        | 6.1 rpm          | .003 Hz          | 2 meters          |
+| Teammates | SENDER ID |
+| ---------|---------|
+|Zack | Z|
+|Brendan | B|
+|Carter | C|
+| Sivannee | S |
 
+[RECEIVERID]: This helps others see who needs to receive the message. 
 
-#include "project.h"
-#include <stdint.h>
+| Teammates | RECEIVER ID |
+| ---------|---------|
+|Zack | Z|
+|Brendan | B|
+|Carter | C|
+| Sivannee | S |
 
-#define MSG_TYPE_SPEED 64
-#define MSG_TYPE_FREQ_SET 65
-#define MSG_TYPE_FREQ_REPORT 66
+[Message type]: Shows what the value is going to be for. Message type is a character
 
-#define MIN_SPEED -100
-#define MAX_SPEED 100
-#define MIN_FREQ 20
-#define MAX_FREQ 2000
+| Message Types | Values |
+| ---------|---------|
+| Motor Freq | 1 |
+| Wavelength | 2 |
+| Motor on/off | 3 |
+| NA | 4 |
 
-void sendMessage(uint8_t msgType, uint8_t motorID, int16_t data);
-void processMessage(uint8_t* buffer, uint8_t length);
+[Value]: Shows the value for the message type that is sending through (Values are based what the message type is. This messages are in int8 (0-256).
 
-// UART buffer for incoming messages
-#define BUFFER_SIZE 32
-uint8_t rxBuffer[BUFFER_SIZE];
-uint8_t rxIndex = 0;
+| Message Types | Values | 
+| ---------|---------|
+| Motor Freq | 0-256 |
+| Wavelength | 0-256 |
+| Motor on/off | 0-1 |
+| NA | 4 |
 
-// Example send function
-void sendMessage(uint8_t msgType, uint8_t motorID, int16_t data) {
-    uint8_t message[4];
-    message[0] = msgType;
-    message[1] = motorID;
-    message[2] = (uint8_t)(data & 0xFF);        // LSB
-    message[3] = (uint8_t)((data >> 8) & 0xFF); // MSB
-
-    UART_PutArray(message, 4);
-}
-
-// Example receive handler
-void processMessage(uint8_t* buffer, uint8_t length) {
-    if (length < 4) return; // Ignore incomplete messages
-
-    uint8_t msgType = buffer[0];
-    uint8_t motorID = buffer[1];
-    int16_t data = (buffer[3] << 8) | buffer[2];
-
-    switch (msgType) {
-        case MSG_TYPE_SPEED:
-            if (data >= MIN_SPEED && data <= MAX_SPEED) {
-                // Control motor speed logic here
-                MotorControl_SetSpeed(motorID, data);
-            }
-            break;
-
-        case MSG_TYPE_FREQ_SET:
-        case MSG_TYPE_FREQ_REPORT:
-            if (data >= MIN_FREQ && data <= MAX_FREQ) {
-                // Frequency control logic here
-                MotorControl_SetFrequency(motorID, data);
-            }
-            break;
-
-        default:
-            // Ignore unknown message types
-            break;
-    }
-}
-
-int main(void) {
-    CyGlobalIntEnable;  // Enable interrupts
-    UART_Start();       // Start UART module
-
-    for (;;) {
-        if (UART_GetRxBufferSize() > 0) {
-            rxBuffer[rxIndex++] = UART_GetByte();
-            if (rxIndex >= 4) {
-                processMessage(rxBuffer, rxIndex);
-                rxIndex = 0; // Reset buffer index after processing
-            }
-        }
-    }
-}
+## Examples
+1) AZCZ101YB (Carter is sending Zack motor freq of 1)

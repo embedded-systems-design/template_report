@@ -24,9 +24,9 @@ Each team member in the daisy chain phas a role in the daisy chain. Their messag
 |---------------|----------------|-----------------|
 | Variable Name | voltage_sensor | voltage_reading |
 | Variable Type | char           | uint8          |
-| Min Value     | V              | 0000           |
-| Max Value     | V              | 5400           |
-| Example       | V              | 2572           |
+| Min Value     | V              | 0           |
+| Max Value     | V              | 5          |
+| Example       | V              | 3          |
 ---
 
 # Messages Sent  
@@ -51,10 +51,10 @@ Each team member in the daisy chain phas a role in the daisy chain. Their messag
 
 |description      | example   |
 |---------------|-------------|
-| voltage from 's' |  AZsV5400YB           |
-| voltage from 'm' |  AZmV5400YB       |  
-| mode 1 from 's'    |   AZsM0YB         | 
-|  mode 0 from 's'     |  AZsM1AZ          | 
+| voltage '5' from 's' |  AZsV\x06\x00YB           |
+| voltage '2' from 'm' |   AZmV\x02\x00 YB     |  
+| mode 1 from 's'    |   AZsM\x01YB         | 
+|  mode 0 from 's'     |  AZsM\x00YB          | 
 
 
 

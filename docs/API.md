@@ -24,7 +24,7 @@ Overall Example code: [AZ][SENDERID][RECEIVERID][MESSAGETYPE][VALUE][YB]
 |Carter | C|
 | Sivannee | S |
 
-[Message type]: Shows what the value is going to be for. Message type is a character
+[Message type]: Shows what the value is going to be for. Message type is a hex (1-4)
 
 | Message Types | Values |
 | ---------|---------|
@@ -33,7 +33,7 @@ Overall Example code: [AZ][SENDERID][RECEIVERID][MESSAGETYPE][VALUE][YB]
 | Motor on/off | 3 |
 | NA | 4 |
 
-[Value]: Shows the value for the message type that is sending through (Values are based what the message type is. This messages are in int8 (0-256).
+[Value]: Shows the value for the message type that is sending through (Values are based what the message type is. This messages are in hex (0-256).
 
 | Message Types | Values | 
 | ---------|---------|

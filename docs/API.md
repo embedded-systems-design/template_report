@@ -46,7 +46,7 @@ Each team member in the daisy chain phas a role in the daisy chain. Their messag
 
 
 
-### Some Valid Message Examples
+### Some Valid Message Examples (SEND AS FULL STRING OF CHARACTERS)
 
 |description      | example   |
 |---------------|-------------|

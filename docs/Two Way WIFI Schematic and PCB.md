@@ -1,4 +1,4 @@
-title: Schematic/Power Budget
+title: Schematic/PCB
 ---
 
 ## Schematic WI-FI Two-Way Internet Communication Using MQTT
@@ -17,16 +17,26 @@ title: Schematic/Power Budget
 This schematic meets the project's outlined requirements by communicating with the MQTT web server, receiving data, and displaying the values across various locations. THis is done through RX and TX UART communication on the board and establishing a web server communication.
 
 
-## Power Budget
-
-![Power Budget](https://github.com/user-attachments/assets/23109ea8-9ecd-4a2a-92ff-b927bc8fe66d)
+## PCB
 
 
 
+Top Layer
+
+<img width="268" alt="image" src="https://github.com/user-attachments/assets/5e01db68-9875-4cfb-9b88-5b326a931cc3" />
+
+
+
+Bottom Layer
+
+<img width="301" alt="image" src="https://github.com/user-attachments/assets/4db6a076-b345-4568-808b-d9b23df0b5fb" />
+
+
+Full PCB Image
+
+<img width="301" alt="image" src="https://github.com/user-attachments/assets/94b46763-3ff1-4361-9c3b-915194860bcf" />
 
 
 
 
 
-
-Since the majority of the power is going to be utilized by the esp32, it is the only component on the 3.3V power line. Since this compnent only uses a max of 95mA out of the available 1000mA from the regulator, Current will not be an issue.

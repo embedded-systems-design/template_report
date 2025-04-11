@@ -37,6 +37,9 @@ Full PCB Image
 <img width="301" alt="image" src="https://github.com/user-attachments/assets/94b46763-3ff1-4361-9c3b-915194860bcf" />
 
 
+[WIFIPCB.pdf](https://github.com/user-attachments/files/19714302/WIFIPCB.pdf)
+
+
 
 
 

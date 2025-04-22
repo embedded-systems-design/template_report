@@ -22,11 +22,11 @@ Each team member in the daisy chain phas a role in the daisy chain. Their messag
 
 |               | Byte 1         | Byte 2        |
 |---------------|----------------|-----------------|
-| Variable Name | voltage_sensor | voltage_reading |
+| Variable Name | light_sensor   | light_reading |
 | Variable Type | char           | char          |
-| Min Value     | V              | 0000           |
-| Max Value     | V              | 5400          |
-| Example       | V              | 2750         |
+| Min Value     | L              | 0000           |
+| Max Value     | L             | 5400          |
+| Example       | L              | 2750         |
 
 # Messages Sent  
 
@@ -44,13 +44,13 @@ Each team member in the daisy chain phas a role in the daisy chain. Their messag
 
 
 
-
+### ALL messages are to be sent and received as individual Char characters
 
 ### Some Valid Message Examples
 
 |description      | example   |
 |---------------|-------------|
-| recieved|  AZhlM0V5400YB          |
+| recieved|  AZhlM0L5400YB          |
 | sent|   AZlfM0YB    |  
 
 

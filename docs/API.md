@@ -24,9 +24,9 @@ Each team member in the daisy chain phas a role in the daisy chain. Their messag
 |---------------|----------------|-----------------|
 | Variable Name | light_sensor   | light_reading |
 | Variable Type | char           | char          |
-| Min Value     | L              | 0000           |
-| Max Value     | L             | 5400          |
-| Example       | L              | 2750         |
+| Min Value     | S1-S2              | 0000           |
+| Max Value     | S1-S2             | 5400          |
+| Example       | S1-S2              | 2750         |
 
 # Messages Sent  
 
@@ -50,7 +50,7 @@ Each team member in the daisy chain phas a role in the daisy chain. Their messag
 
 |description      | example   |
 |---------------|-------------|
-| recieved|  AZhlM0L5400YB          |
+| recieved|  AZhlS15400YB          |
 | sent|   AZlfM0YB    |  
 
 

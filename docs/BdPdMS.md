@@ -35,13 +35,13 @@ title: Block Diagram
 
 | Message Type | Message ID <br /> Type <br /> uint8_t | Alex <br /> Role: HMI <br /> ID: a | Frank <br /> Role: Actuator <br /> ID: c | Tyler <br /> Role: Sensor <br /> ID: d | Luis <br /> Role: MQTT <br /> ID: b |
 | --------------| ------------- | ------------- | ------------- | ------------- | --------------- |
-| Motor Value | 0x01 | | | | |
-| Sensor Value | 0x02 | | | | |
-| Wifi Error Message Value | 0x03 | | | | |
-| Wifi Status Value | 0x04 | | | | |
-| Subsystem Error Message| 0x05 | | | | |
-| Motor Status | 0x06 | | | | |
-| Sensor Status | 0x07 | | | | |
+| Motor Value | 0x01 | S: | R | - | S: (mqtt topic: /EGR314/TEAM202LS/PUB) |
+| Sensor Value | 0x02 | R: | -  | S | R: (mqtt topic: /EGR314/TEAM202LS/SENSOR) |
+| Wifi Error Message Value | 0x03 | R | R | R | S: display error message |
+| Wifi Status | 0x04 | R | R | R | S: (When wifi initially establishes. After wifi established, send if status changes.) |
+| Subsystem Error Message | 0x05 | S or R| S or R | S or R | R: (mqtt topic: /EGR314/TEAM202LS/ERROR_MESSAGE) |
+| Motor Status | 0x06 | R | S | - | R: (mqtt topic: /EGR314/TEAM202LS/PUB) |
+| Sensor Status | 0x07 | R | - | S | R: (mqtt topic: /EGR314/TEAM202LS/SENSOR) |
 
 |Item | Meaning |
 |-----| ------- |

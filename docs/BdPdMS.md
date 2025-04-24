@@ -31,6 +31,24 @@ title: Block Diagram
 |--|------|------|-------|-------|
 |Team Id (char) | a | b | c | d |
 
+### Team Verification:
+
+| Message Type | Message ID <br /> Type <br /> uint8_t | Alex <br /> Role: HMI <br /> ID: a | Frank <br /> Role: Actuator <br /> ID: c | Tyler <br /> Role: Sensor <br /> ID: d | Luis <br /> Role: MQTT <br /> ID: b |
+| --------------| ------------- | ------------- | ------------- | ------------- | --------------- |
+| Motor Value | 0x01 | | | | |
+| Sensor Value | 0x02 | | | | |
+| Wifi Error Message Value | 0x03 | | | | |
+| Wifi Status Value | 0x04 | | | | |
+| Subsystem Error Message| 0x05 | | | | |
+| Motor Status | 0x06 | | | | |
+| Sensor Status | 0x07 | | | | |
+
+|Item | Meaning |
+|-----| ------- |
+| S | Sends the message |
+| R | Receives & does something with message |
+| - | Do nothing, passes message |
+
 ### Message Type 1:
 
 | Byte 1 (char) | Byte 2 (char) | Byte 3 (char) | Byte 4 (char) | Byte 5 (int8_t) | Byte 6 (char) | Byte 7 (char) | Byte 8 (char) | Byte 9 (char) |

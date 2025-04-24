@@ -53,8 +53,6 @@ title: Block Diagram
 
 ## Team Verification Table:
 
-### Team Verification:
-
 | Message Type | Message ID <br /> Type <br /> uint8_t | Alex <br /> Role: HMI <br /> ID: a | Frank <br /> Role: Actuator <br /> ID: c | Tyler <br /> Role: Sensor <br /> ID: d | Luis <br /> Role: MQTT <br /> ID: b |
 | --------------| ------------- | ------------- | ------------- | ------------- | --------------- |
 | Motor Value | 0x01 | S: | R: | - | S: (mqtt topic: /EGR314/TEAM202LS/SUB) |
@@ -66,4 +64,3 @@ title: Block Diagram
 | S | Sends the message |
 | R | Receives & does something with message |
 | - | Do nothing, passes message |
-

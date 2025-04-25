@@ -20,6 +20,12 @@ I picked the TMC5072 motor driver, it was an easy pick because it was able to ha
 
 NEMA 17 is a great motor. I picked this one because it needed low current and was able to hold a wave movement. I would use this again. 
 
+## Power Budget Conclusion
+
+The Power budget showed that I needed 2 Amp to safety power the board, made it easy to find components for this because 2 is a whole number. 
+
+## Table
+
 
 ### Motor Selection
 | Motor Type               | Pros                                              | Cons                               | Cost    | Datasheet/Buy Link                                                                                                                                      | Picture                                                                                                                                                                |

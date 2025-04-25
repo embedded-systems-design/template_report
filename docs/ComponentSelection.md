@@ -1,5 +1,26 @@
 ## Component Selection Report
 
+## Summary Table of major components
+
+| Component type | My pick |
+|-----|-----------|
+| Mircocontroller | PIC18F47Q10-E/MP |
+| Voltage Regulation | NCV2575D2T-12R4G |
+| Motor Driver | TMC5072 Stepper Motor Driver |
+| Motor Stepper | NEMA 17 Stepper Motor |
+
+
+## Decision Making Process
+
+Main decision for picking the PIC was at the time, we only used the pic and I knew how to work it and was comfortable with it. If I were to do it over again I would use the PIC again. But add more output pins to see if everything was working correctly.
+
+I chosose the voltage regulator I picked because it met all the product requirements. Switching regualator, 12 V to 3.3 V, surface mounted, and can hold 2 A. I would pick this one again, I had no problems with this. 
+
+I picked the TMC5072 motor driver, it was an easy pick because it was able to have 2 motors and used SPI. All the research said this driver could support a fast motor. I would not pick this again, although I got it to receive SPI data, I couldnt get it to turn the motor. I beleive because it required 8 lines of commend to setup the motor, and the pic wasnt able to send it correctly. I would pick the in class motor driver and use 2 of them and try to run them at the same time. 
+
+NEMA 17 is a great motor. I picked this one because it needed low current and was able to hold a wave movement. I would use this again. 
+
+
 ### Motor Selection
 | Motor Type               | Pros                                              | Cons                               | Cost    | Datasheet/Buy Link                                                                                                                                      | Picture                                                                                                                                                                |
 |--------------------------|---------------------------------------------------|------------------------------------|---------|--------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

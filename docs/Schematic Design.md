@@ -7,6 +7,10 @@ Zip file: [firstschematicfeb27.zip](https://github.com/user-attachments/files/19
 
 PDF file: [motorschematic1](https://github.com/user-attachments/assets/77e95345-69eb-439d-b6ea-bce9ee8f3d99)
 
+## PCB design
+
+## Zip File
+
 
 
 

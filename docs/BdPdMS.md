@@ -25,7 +25,7 @@ title: Block Diagram
 
 |  | Alex | Luis | Frank | Tyler |
 |--|------|------|-------|-------|
-|Team Id (char) | a | b | c | d |
+|Team Id (char) | a | b | d | c |
 
 ### Message Type 1:
 

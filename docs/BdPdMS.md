@@ -55,9 +55,9 @@ title: Block Diagram
 
 | Message Type | Message ID <br /> Type <br /> uint8_t | Alex <br /> Role: HMI <br /> ID: a | Frank <br /> Role: Actuator <br /> ID: c | Tyler <br /> Role: Sensor <br /> ID: d | Luis <br /> Role: MQTT <br /> ID: b |
 | --------------| ------------- | ------------- | ------------- | ------------- | --------------- |
-| Motor Value | 0x01 | S: | R: | - | S: (mqtt topic: /EGR314/TEAM202LS/SUB) |
-| Sensor Value | 0x02 | R: | -  | S: | R: (mqtt topic: /EGR314/TEAM202LS/SENSOR) |
-| Target RPM | 0x03 | S: | - | R: | S: (mqtt topic: /EGR314/TEAM202LS/RPM) |
+| Motor Value | 0x01 | S: Sends message when button is pressed. | R: Lights a single LED. | S: Sends when Target RPM is received. | S: (mqtt topic: /EGR314/TEAM202LS/SUB) |
+| Sensor Value | 0x02 | R: Display on OLED. | -  | S: Sends every second. | R: (mqtt topic: /EGR314/TEAM202LS/SENSOR) |
+| Target RPM | 0x03 | S: Sends message when button is pressed. | - | R: Lights LED | S: (mqtt topic: /EGR314/TEAM202LS/RPM) |
 
 |Item | Meaning |
 |-----| ------- |

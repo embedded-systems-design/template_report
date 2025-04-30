@@ -1,5 +1,5 @@
-## Schematic Design
-Schematic is for the Stepper motor subsystem 
+## Schematic Design for the stepper motor subsystem
+
 ![Schematic](https://github.com/user-attachments/assets/b3c4dea8-ef0b-482a-9b60-208d41d88e1c)
 
 PDF file: [motorschematic1](https://github.com/user-attachments/assets/b3c4dea8-ef0b-482a-9b60-208d41d88e1c)
@@ -28,12 +28,11 @@ Bottom:
 ## Power Budget
 
 ![Untitled spreadsheet - Sheet1 (1)_page-0001 (1)](https://github.com/user-attachments/assets/33cfeae8-e38f-417e-bd09-71f148c52443)
-
 The 2 A is enough to support the 12 V rail but it doesnt have the full safety net of 25%. Will keep an eye during testing. 
 
 
 
-## Functionality of this schematic abd decision making process
+## Functionality of this schematic and decision making process
 
 The actuator subsystem for the String Machine project is centered around a NEMA 17 stepper motor driven by the TMC5072 motor driver IC. This driver is integrated directly onto the custom PCB and interfaces with the system’s microcontroller via the SPI communication protocol. The use of SPI allows for high-speed, reliable control and feedback between the microcontroller and the motor driver, which is critical for real-time tuning and adjustment of the string’s vibration characteristics.
 
@@ -44,8 +43,6 @@ By choosing to integrate the TMC5072 chip directly onto the PCB, the design mini
 Furthermore, powering the motor with a dedicated 12V rail ensures the NEMA 17 motor can deliver the necessary torque to manipulate the string under tension without stalling or losing steps. This directly supports the product requirement for consistent and smooth motion over a wide range of frequencies.
 
 Overall, the schematic aligns with all core functional and user requirements: serial programmability, accurate motor positioning, mechanical robustness, and high-frequency resolution. These ensure the system can produce human-audible sound waves reliably, which is the central goal of the String Machine.
-## Decision Making Process
-
 
 ## Version 2.0 
 

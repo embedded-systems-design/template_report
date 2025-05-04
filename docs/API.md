@@ -20,13 +20,13 @@ Each team member in the daisy chain phas a role in the daisy chain. Their messag
 
 <b><i>Received and Forwarded to MQTT</i></b>
 
-|               | Byte 1         | Byte 2        |
-|---------------|----------------|-----------------|
-| Variable Name | light_sensor   | light_reading |
-| Variable Type | char           | char          |
-| Min Value     | S1-S2              | 0000           |
-| Max Value     | S1-S2             | 5400          |
-| Example       | S1-S2              | 2750         |
+|               | Byte 1-2     | Byte 3-6      | Byte 7-8     | Byte 9-12     |
+|---------------|--------------|---------------|--------------|---------------|
+| Variable Name | light_sensor | light_reading | light_sensor | light_reading |
+| Variable Type | char         | char          | char         | char          |
+| Min Value     | S1           | 0000          | S2           | 0000          |
+| Max Value     | S1           | 5400          | S2           | 5400          |
+| Example       | S1           | 2750          | S2           | 1532          |
 
 # Messages Sent  
 
@@ -50,8 +50,8 @@ Each team member in the daisy chain phas a role in the daisy chain. Their messag
 
 |description      | example   |
 |---------------|-------------|
-| recieved|  AZhlS15400YB          |
-| sent|   AZlfM0YB    |  
+| recieved|  AZhlS15400S21345YB          |
+| sent|   AZlfM0S15400S23400YB    |  
 
 
 

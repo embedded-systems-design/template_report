@@ -1,4 +1,4 @@
-title: Bill of Materials for Subsystem
+title: BOM
 ---
 
 ## Digikey BOM

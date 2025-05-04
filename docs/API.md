@@ -22,7 +22,7 @@ Each team member in the daisy chain phas a role in the daisy chain. Their messag
 
 |               | Byte 1-2     | Byte 3-6      | Byte 7-8     | Byte 9-12     |
 |---------------|--------------|---------------|--------------|---------------|
-| Variable Name | light_sensor | light_reading | light_sensor | light_reading |
+| Variable Name | sensor_one   | S1_reading    | sensor_one   | S2_reading    |
 | Variable Type | char         | char          | char         | char          |
 | Min Value     | S1           | 0000          | S2           | 0000          |
 | Max Value     | S1           | 5400          | S2           | 5400          |

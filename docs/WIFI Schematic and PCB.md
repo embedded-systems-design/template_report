@@ -24,7 +24,7 @@ title: Schematic/PCB
 
 
 
-This schematic meets the project's outlined requirements by communicating with the MQTT web server, receiving data, and displaying the values across various locations. THis is done through RX and TX UART communication on the board and establishing a web server communication.
+This schematic meets the project's outlined requirements by communicating with the MQTT web server, receiving data, and displaying the values across various locations. This is done through RX and TX UART communication on the board and establishing a web server communication.
 
 
 ## PCB

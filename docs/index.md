@@ -1,9 +1,11 @@
 ## Zack Gald Individual Website
 
-Welcome to our project report for the "String Machine" developed for EGR314. This website will provide an overview of our team's design process, ideation, and the technical details behind the String Machine project.
+Welcome to my individual project report for the "String Machine" developed for EGR314. This website provides an overview of my work, focusing specifically on the stepper motor system used to drive the vibrating strings to produce different human-pitch tones.
 
-My name is Zack Gald, and I am responsible for the stepper motor component of the design. The goal of this project is to create a machine with motor-controlled strings that can produce different tones from human pitches. Through collaboration and iteration, our team has worked to develop an innovative solution, and this site will walk you through our journey, from concept generation to the final design.
+My name is Zack Gald, and I was responsible for the stepper motor subsystem, including motor selection, driver integration, and tuning for musical frequency generation. Our team collaborated closely to design and build a functional prototype, balancing mechanical, electrical, and software challenges.
 
-----------------------------------------
+You can also view our full team project website for more detailed team-wide documentation and final deliverables:
 
-Team 203 Website: [link](https://egr314-2025-s-203.github.io/Team203.github.io/)
+➡️ [EGR314 Team 203 Project Website](https://egr314-2025-s-203.github.io/Team203.github.io/)
+
+---

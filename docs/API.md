@@ -63,7 +63,7 @@ Overall Example code: [AZ][SENDERID][RECEIVERID][MESSAGETYPE][VALUE][YB]
 | Message Type | Message ID  (uint8_t) | Carter Role: Sensor; ID: C | Zack Role: Motor; ID: Z | Brenden Role Web; ID: B |
 |---|----|----|-----|---|
 | Pitch Value | 0x31 | S (reads sound) | R (Motor reacts) | R (mqtt topic:/ EGR314/TEAM2/PITCH) |
-| Motor on or off | 0x33 | - | R (motor spins) | S (mqtt topic: /EGR314/TEAM203/MOTORON |
+| Motor on or off | 0x33 | - | S (motor spins) | R (mqtt topic: /EGR314/TEAM203/MOTORON |
 | System off | 0x34 | R (turn off sensor) | R (Turn motor off ) | S mqtt topic: /EGR314/TEAM203/OFF |
 | Sensor Error | 0x35 | S (message error) | R (remove motor SPI ) | R mqtt topic: /EGR314/TEAM203/SENSORERROR |
 | Motor Error | 0x36 | R (disconnect sensor) | S (message error ) | R mqtt topic: /EGR314/TEAM203/MOTORERROR |

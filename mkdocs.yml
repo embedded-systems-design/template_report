@@ -29,13 +29,13 @@ font:
 nav:
   - Home: index.md
   - Design:
-      - Component Selection: component_selection.md
-      - Individual Block Diagram: individual_block_diagram.md
-      - Schematic Design: schematic_design.md
+      - Component Selection: ComponentSelection.md
+      - Individual Block Diagram: "Individual Block Diagram.md"
+      - Schematic Design: "Schematic Design.md"
   - Documentation:
-      - BOM: bom.md
-      - API: api.md
-      - Resources: resources.md
+      - BOM: BOM.md
+      - API: API.md
+      - Resources: Resources.md
 
 markdown_extensions:
   - attr_list

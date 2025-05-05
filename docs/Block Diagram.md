@@ -4,7 +4,8 @@ title: Block Diagram
 
 ## Block Diagram for WI-FI Two-Way Internet Communication Using MQTT
 
-<img width="314" alt="image" src="https://github.com/user-attachments/assets/bb27f72a-4fec-4357-ad69-f6190c620a15" />
+![image](https://github.com/user-attachments/assets/dd95ef17-4c8d-42da-93d7-ac01113ff9f3)
+
 
 
 

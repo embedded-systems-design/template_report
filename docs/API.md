@@ -2,7 +2,9 @@ title: API
 ---
 
 # My Role
-Each team member in the daisy chain phas a role in the daisy chain. Their message is denoted by their last name. (l for Larance and so on). My job is to handle the light sensor values, S1 and S2 and display them in the MQTT server and pass the values alongside the 'mode' change to the HMI which then passes it to the other systems as needed.
+
+Each team member in the daisy chain plays a role in the daisy chain. Their message is denoted by their last name. (l for Larance and so on). My job is to handle the light sensor values, S1 and S2, and display them in the MQTT server and pass the values alongside the 'mode' change to the HMI which then passes it to the other systems as needed.
+
 
 
 

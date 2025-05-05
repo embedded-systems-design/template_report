@@ -36,4 +36,5 @@ To achieve our task, Team 202 got together to discuss end goals for the project,
 
 ## Results
 
-"Final picture of project goes here"
+![Exhibit](./subfolder/teamExhibit.jpg)
+![Team PCBs](./subfolder/teamPCBs.jpg)

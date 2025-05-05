@@ -4,6 +4,6 @@ title: Subfolder
 
 | Pages          | Links |
 | --------------------------------------------- | ----------- |
-|Tyler                              | [Sensor Subsystem (Hall Effect Sensor)](https://crypt1dking.github.io/Schematic/) |
-|Luis                               | [Wifi Subsystem](https://luisasaenz.github.io/schematic/) |
-|Frank                              | [Motor Subsystem (Stepper Motor)](https://wadian802.github.io/Schematic/) |
+|Resources                              | [Resources](./subfolder/resources.md) |
+|Showcase Poster                               | [Showcase Poster](https://egr314-2025-s-202.github.io/team202.github.io/subfolder/showcasePoster/) |
+|Reflection                              | [Reflection](./subfolder/reflection.md) |

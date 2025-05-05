@@ -22,10 +22,10 @@ title: ESP32 Table
 
 | Module         | # Available | Needed | Associated Pins (or * for any) |
 | -------------- | ----------- | ------ | ------------------------------ |
-| UART           | 33          | 2      | all IO pins                    |
+| UART           | 2            |   2      | IO-43/IO44                    |
 | external SPI\* | 33           | 0      | all IO pins                   |
 | I2C            | 33           | 0      | all IO pins                   |
-| GPIO           | 33           | 1      | IO3                           |
+| GPIO           | 33           | 2      | IO-0/ IO-16                   |
 | ADC            | 33           | 0      | all IO pins                   |
 | LED PWM        | 33           | 0      | all IO pins                   |
 | Motor PWM      | 33           | 0      | all IO pins                   |

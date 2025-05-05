@@ -13,6 +13,15 @@ tags:
 - Preparation Date: April 20, 2025
 - Spring 2025
 - ASU, EGR 314, Prof. Dan Aukes
+  
+### Team Member Schematics
+
+| Team Members           | Schematic Links |
+| --------------------------------------------- | ----------- |
+|Tyler                              | [Sensor Subsystem (Hall Effect Sensor)](https://crypt1dking.github.io/Schematic/) |
+|Luis                               | [Wifi Subsystem](https://luisasaenz.github.io/schematic/) |
+|Frank                              | [Motor Subsystem (Stepper Motor)](https://wadian802.github.io/Schematic/) |
+|Alex                               | [HMI (Human Machine Interface) Subsystem](https://ajdoole.github.io/Schematic%20Design/Schematic/) |
 
 ## Welcome
 
@@ -25,3 +34,6 @@ Team 202 will design a mechanical device to show scientific principles of energy
 
 To achieve our task, Team 202 got together to discuss end goals for the project, deciding on a device that can task driven or function autonomously. By doing this, Team 202 can also develop our own skills in engineering and robotics, increasing our effectiveness as engineers. The team will assign roles to operate more smoothly, each member will practice effective communication through various means and be accountable for the task they are given
 
+## Results
+
+"Final picture of project goes here"

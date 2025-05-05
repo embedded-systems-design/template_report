@@ -1,5 +1,3 @@
-## Component Selection Report
-
 ## Summary Table of major components
 
 | Component type | My pick |
@@ -86,7 +84,7 @@ The Power budget showed that I needed 2 Amp to safety power the board, made it e
 - **Microcontroller:** The PIC18F47Q10 offers strong wireless capabilities and sufficient GPIOs for the project.
 - **Power Regulation:** NCV2575D2T-12R4G is selected for its high efficiency and adjustable voltage output, ideal for powering the system.
 
-## 2) Pick the microcontroller
+## Pick the microcontroller
 
 A. I have use SPI commucation from the microcontroller to the motor driver. Uart connection to teammates. Overall, there will be 13 pins. 4 SPI, 2 UART, 3 Voltage, 2 ground, and 2 snap pins.
 
@@ -139,7 +137,7 @@ After careful consideration of multiple microcontroller options, the **PIC18F47Q
 Another significant advantage is my **previous experience working with PIC microcontrollers**, which will expedite development and troubleshooting, allowing for a more efficient workflow. The **availability of extensive documentation and Microchip’s development tools, including MPLAB X and MCC**, further strengthens this choice. The microcontroller's **low-cost, reliable performance, and easy integration into the PCB design** make it the best fit for our project. With this selection finalized, I will ensure that we acquire the necessary hardware promptly to stay on track with our development timeline.
 
 
-## 3) Power Budget
+## Power Budget
 ![Untitled spreadsheet - Sheet1 (1)_page-0001 (1)](https://github.com/user-attachments/assets/33cfeae8-e38f-417e-bd09-71f148c52443)
 
 

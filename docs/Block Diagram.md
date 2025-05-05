@@ -10,4 +10,4 @@ title: Block Diagram
 
 
 
-I fixed some previous things I was missing. This includes adding a jumper in between power, identifying connection lines (digital, voltage, etc.) making clear logical conenctions, and identifying the correct uart pins.
+I fixed some previous things I was missing. This includes adding a jumper in between power, identifying connection lines (digital, voltage, etc.) making clear logical connections, and identifying the correct UART pins.

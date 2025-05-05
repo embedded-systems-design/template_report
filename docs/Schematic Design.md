@@ -1,6 +1,6 @@
 ## Schematic Design for the stepper motor subsystem
 
-![Schematic](https://github.com/user-attachments/assets/b3c4dea8-ef0b-482a-9b60-208d41d88e1c)
+![Schematic](https://github.com/user-attachments/assets/7bf313e3-64be-41f7-892a-18e94b7d48cf)
 
 PDF file: [motorschematic1](https://github.com/user-attachments/assets/b3c4dea8-ef0b-482a-9b60-208d41d88e1c)
 

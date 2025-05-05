@@ -3,14 +3,15 @@ title: Schematic/PCB
 
 ## Schematic WI-FI Two-Way Internet Communication Using MQTT
 
-<img width="517" alt="image" src="https://github.com/user-attachments/assets/93c11d1a-a5fe-4b64-910f-68626e88b5a4" />
+![image](https://github.com/user-attachments/assets/b50dc292-9f08-4729-be37-c32dfcc6f4c4)
 
 
 
 
 
-[WIFI_Schematic_1.zip](https://github.com/user-attachments/files/19396605/WIFI_Schematic_1.zip)
-[Schematic.pdf](https://github.com/user-attachments/files/19396579/Schematic.pdf)
+
+[wifi_schematic_1.pdf](https://github.com/user-attachments/files/20032067/wifi_schematic_1.pdf)
+
 
 
 

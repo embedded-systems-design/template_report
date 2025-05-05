@@ -1,6 +1,15 @@
 title: Schematic/PCB
 ---
 
+## Final Design
+
+
+![IMG_6548](https://github.com/user-attachments/assets/2486428a-1d86-4083-94bf-e89d954788d7)
+
+![IMG_6549](https://github.com/user-attachments/assets/42ba48a8-55fd-4947-a306-ca619398150e)
+
+
+
 ## Schematic WI-FI Two-Way Internet Communication Using MQTT
 
 ![image](https://github.com/user-attachments/assets/b50dc292-9f08-4729-be37-c32dfcc6f4c4)
@@ -39,6 +48,25 @@ Full PCB Image
 
 
 [WIFIPCB.pdf](https://github.com/user-attachments/files/19714302/WIFIPCB.pdf)
+
+
+
+
+## User Satisfaction
+
+
+
+## Decision Making process
+
+
+
+
+
+
+## Version 2.0
+
+
+
 
 
 

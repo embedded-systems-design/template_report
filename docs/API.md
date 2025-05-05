@@ -2,13 +2,13 @@ title: API
 ---
 
 # My Role
-Each team member in the daisy chain phas a role in the daisy chain. Their message is denoted by their last name. (L for Larance and so on). My job is to handle the v as the WIFI is to display voltage, as well as pass on the mode change message to the HMI.
+Each team member in the daisy chain phas a role in the daisy chain. Their message is denoted by their last name. (l for Larance and so on). My job is to handle the light sensor values, S1 and S2 and display them in the MQTT server and pass the values alongside the 'mode' change to the HMI which then passes it to the other systems as needed.
 
 
 
 | Temm members | Unique ID |
 |-----|-----|
-|Shon Ha| h |
+|Shon Ha        |h|
 |Maximus Mathews|m|
 |Rohan Fernandez|f|
 |Shelton Larance|l|
@@ -16,7 +16,7 @@ Each team member in the daisy chain phas a role in the daisy chain. Their messag
 
 # Messages Received  
 
-### Message Type 3 (Voltage Readings from Solar Panel)
+### Message Type 3 (Light Readings from the sensors)
 
 <b><i>Received and Forwarded to MQTT</i></b>
 
@@ -30,7 +30,7 @@ Each team member in the daisy chain phas a role in the daisy chain. Their messag
 
 # Messages Sent  
 
-### Message Type 1 (Wifi Toggle - Auto/Manual)
+### Message Type 1 (Wifi Toggle - Automatic/Manual)
 
 <b><i>Used to toggle stepper motor functionality from automatic (state 0) to manual (state 1).</i></b>
 
@@ -46,7 +46,7 @@ Each team member in the daisy chain phas a role in the daisy chain. Their messag
 
 ### ALL messages are to be sent and received as individual Char characters
 
-### Some Valid Message Examples
+### Valid Message Examples
 
 |description      | example   |
 |---------------|-------------|

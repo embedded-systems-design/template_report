@@ -53,17 +53,18 @@ Full PCB Image
 
 
 ## User Satisfaction
-
+The MQTT subsystem plays a key role in making everything work smoothly behind the scenes. While the motor gets most of the spotlight for physically moving the solar panel, it depends on the data that MQTT helps send and receive. Whether it's light readings from sensors, button presses, or switching between automatic and manual modes, MQTT makes sure that information gets where it needs to go quickly and reliably. Our part in this project is all about keeping those connections strong so the system can respond in real time. This is especially important for showing students in grades K–12 how solar power and smart energy systems work. MQTT even supports two-way communication, so not only can we send sensor data to the motor, but we can also receive commands and updates going the other way. In short, MQTT might not be visible, but it's what keeps all the other subsystems talking—and without that, the whole project wouldn’t come together.
 
 
 ## Decision Making process
-
-
+THe process of designing MQTT was fairly straightforqard. The biggest decisions regarding this subsystem was how do we impliment the WIFI functionality as effectivly as possible while checking off all requirements. The team steeled on having the WIFI be similar to another HMI system. This means that users would be able to visibly see light values printed on the MQTT server, while also being able to interact and make mode changes with a press of a button. 
 
 
 
 
 ## Version 2.0
+Looking ahead, there’s a lot of exciting potential for version 2.0 of the MQTT subsystem. Right now, we’re using an ESP32-S3, which is already a strong platform. It gave me plenty of flexibility for handling MQTT tasks. But for a more scalable setup, version 2.0 could offload MQTT responsibilities to a dedicated communication module, like a Raspberry Pi. That would free up the ESP32-S3 to focus more on real-time control and sensor processing while improving the reliability and speed of message handling.
+On the hardware side, adding an external antenna or upgrading to a Wi-Fi module with a better range could help in areas with weak WIFI signals, especially useful if the project is used outdoors the way it was intended. Including local storage, like a memory card, would let us buffer MQTT messages during network drops so no data gets lost. If we integrate a real-time clock with a small battery backup, we could timestamp messages and support scheduled publishing, which makes the system feel a lot smarter and more robust.
 
 
 

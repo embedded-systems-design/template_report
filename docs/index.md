@@ -7,7 +7,7 @@ tags:
 
 ### Introduction to My Subsystem  
 
-Hello, my name is Shelton, and this is my personal website for EGR 314. My subsystem is the two-way internet connection using the built-in Wi-Fi functionality of the ESP32-S3.  
+Hello, my name is Shelton and this is my personal website for EGR 314. My subsystem is the two-way internet connection using the built-in Wi-Fi functionality of the ESP32-S3.  
 This subsystem will communicate with an MQTT server, gathering data from other sensors and posting it to a MQTT server, as well as sending those values anlongside the systems mode change from automatic to maual and vice versa to a HMI screen.  
 
 Link to team Website:  

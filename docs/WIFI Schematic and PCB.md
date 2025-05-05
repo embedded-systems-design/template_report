@@ -52,7 +52,7 @@ Full PCB Image
 
 [Gerber and Drill Files.zip](https://github.com/user-attachments/files/20049250/Gerber.and.Drill.Files.1.zip)
 
-[WIFI_Schematic_PCB_PDFs.zip](https://github.com/user-attachments/files/20049257/WIFI_Schematic_PCB_PDFs.1.zip)
+
 
 ## User Satisfaction
 The MQTT subsystem plays a key role in making everything work smoothly behind the scenes. While the motor gets most of the spotlight for physically moving the solar panel, it depends on the data that MQTT helps send and receive. Whether it's light readings from sensors, button presses, or switching between automatic and manual modes, MQTT makes sure that information gets where it needs to go quickly and reliably. Our part in this project is all about keeping those connections strong so the system can respond in real time. This is especially important for showing students in grades K–12 how solar power and smart energy systems work. MQTT even supports two-way communication, so not only can we send sensor data to the motor, but we can also receive commands and updates going the other way. In short, MQTT might not be visible, but it's what keeps all the other subsystems talking—and without that, the whole project wouldn’t come together.

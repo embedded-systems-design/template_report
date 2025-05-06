@@ -1,12 +1,12 @@
 ---
 title: Resources
 ---
-![exhibit](./teamExhibit.png)
-![dam project](./docs/damproject.jpg)
-![jamboard](./docs/finalJamboard.jpg)
-![ideation concept](./docs/IdeationConcept.png)
+![exhibit](./teamExhibit.jpg)
+![dam project](./docs/subfolder/damproject.jpg)
+![jamboard](./docs/subfolder/finalJamboard.jpg)
+![ideation concept](./docs/subfolder/IdeationConcept.png)
 ![team block diagram](./TeamBlockDiagram.png)
-![sequence diagram](./docs/SequenceDiagram.zip)
-![smaller projects not dam](./docs/smallerProjsNotdam.jpg)
+![sequence diagram](./docs/subfolder/SequenceDiagram.zip)
+![smaller projects not dam](./docs/subfolder/smallerProjsNotdam.jpg)
 ![team pcbs](./teamPCBs.jpg)
 ![team poster](./Team202Poster.png)

@@ -10,3 +10,4 @@ title: Resources
 ![smaller projects not dam](./docs/subfolder/smallerProjsNotdam.jpg)
 ![team pcbs](./teamPCBs.jpg)
 ![team poster](./Team202Poster.png)
+

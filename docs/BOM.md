@@ -1,13 +1,25 @@
 title: BOM
 ---
 
-## Digikey BOM
+## Bill of Materials
+
+
+![image](https://github.com/user-attachments/assets/576ae822-89ec-4f29-9102-533a524f6065)
+
+
+[Bill of Materials MQTT.xlsx](https://github.com/user-attachments/files/20051334/Bill.of.Materials.MQTT.xlsx)
+
+
+
+
+
+## Digikey Purchase Request
 
 <img width="682" alt="image" src="https://github.com/user-attachments/assets/2675501f-c805-477e-8082-6799db462a23" />
 
 
 
-## Mouser BOM
+## Mouser Purchase Request
 
 <img width="843" alt="image" src="https://github.com/user-attachments/assets/4c15d759-5aa6-4cdb-aab4-7fe64cb95c0d" />
 

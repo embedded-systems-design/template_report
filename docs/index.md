@@ -1,90 +1,40 @@
 ---
-title: Welcome
+title: Welcome! We are team 202
 tags:
 - tag1
 - tag2
 ---
 
-## Et poposcerat rursus ad magnus premit
+## HOME
 
-Lorem markdownum gradus, qui largis, nec pater pleno: fatum. Adspexit cursus
-cur, aut in adhuc crimina **habebat**: pro.
+- Project Name: Dam Marbles
+- Team 202
+- Alexander Dooley, Frank Wade, Luis Saenz, Tyler Whittle
+- Preparation Date: April 20, 2025
+- Spring 2025
+- ASU, EGR 314, Prof. Dan Aukes
+  
+### Team Member Schematics
 
-- Et ducimus
-- Prosecta hinc nix vidi rettulit cum sitim
-- Has in tonitribus tenebrae Romane mirantum resupina
-- Figuras et dextram
+| Team Members           | Schematic Links |
+| --------------------------------------------- | ----------- |
+|Tyler                              | [Sensor Subsystem (Hall Effect Sensor)](https://crypt1dking.github.io/EGR%20314%20Team%20Project/Schematic/) |
+|Luis                               | [Wifi Subsystem](https://luisasaenz.github.io/schematic/) |
+|Frank                              | [Motor Subsystem (Stepper Motor)](https://wadian802.github.io/Schematic/) |
+|Alex                               | [HMI (Human Machine Interface) Subsystem](https://ajdoole.github.io/Schematic%20Design/Schematic/) |
 
-## Esse quoque sedem plena nunc iecur
+## Welcome
 
-Possemque suos dumque. Deum recta rogantem, inquinat facta gigantas; ego nisi
-mea. Nec tamen quae gravem, potens, [cognoscendo
-scripta](http://vidit-lumine.io/sinusdeum). *Nihil ventis Aeneae* probat.
+On September 12th, 1962, John F Kennedy spoke to the nation and told them that we are going to the moon before the end of the decade. Within this speech, President Kennedy also said “The growth of our science and education will be enriched by new knowledge of our universe and environment, by new techniques of learning and mapping and observation, by new tools and computers for industry, medicine, the home as well as the school. Technical institutions, such as Rice, will reap the harvest of these gains,”. Today, education gives forth STEM to help the students of today, follow in the footsteps of their grandfathers. Through the learning of science, technology, engineering and mathematics, like those who touched the heavens, the generation of tomorrow might one day take humanity somewhere yet to feel the human touch.
 
-1. listum primo
+Grains of curiosity and dreams, sprinkled among the seeds of STEM, are cultivated by both teachers and professors.
+> To aid the growth of these grains, the mission of Team 202 is to take S.T.E.M concepts found in education and deliver them in a manner students would understand.
 
-    discusso el codex:
+Team 202 will design a mechanical device to show scientific principles of energy conversion between different states, that also highlights the use of technology and engineering. Our goal is to add more seeds of curiosity and try to inspire more students to pursue more STEM related jobs.
 
-        if (pimProgressiveMashup(recursive_upnp_barcraft, seo) == file.station_leaf(
-                optical + 1, compact_docking)) {
-            rt_programming_system(udpScraping, marketRegularMetal,
-                    threadingNuiRoom);
-            vlogVaporwarePage += 5 + xhtmlDiskReader;
-            access.kbps_footer.dialogZettabyte(3, cloud_midi_spoofing, ipad_macro);
-        }
-        if (maskProcessorKbps(programming, user, cache_web) >= file *
-                publishingDual) {
-            hibernate.flash_network -= 4;
-            bar = goodput_flash;
-            streaming = voip_flatbed - 1;
-        } else {
-            clipCd(jquery, 55 - -1, touchscreen);
-            plagiarism_command_e = cleanHardIcio;
-            recursion = checksum;
-        }
-        clock(roomCaptcha, 2);
+To achieve our task, Team 202 got together to discuss end goals for the project, deciding on a device that can task driven or function autonomously. By doing this, Team 202 can also develop our own skills in engineering and robotics, increasing our effectiveness as engineers. The team will assign roles to operate more smoothly, each member will practice effective communication through various means and be accountable for the task they are given
 
-2. listum secundum
+## Results
 
-    > warningum alertum
-
-3. listum adnauseum
-
-## Pondus ante Ialysios vultu exasperat loqui sanguine
-
-Iacere non, quis nimbis. Dumque tibi minora clamabat contigit vacant, sepulcro
-coniugis quae; mihi! Solent adeste faventibus, perque penates, currere in quater
-Odrysius ferro, vota, vero mittat crinibus, quae. Hanc mundi, ipse vultu voce
-sub quae heros forsitan imagine in tecum Cephalus? Formosissimus vela; vapore
-oris, aera, utendum ostendisse regnum Centaurorum elice.
-
-    if (searchVrmlCpm <= traceroute) {
-        bittorrentExbibyte = del;
-        fsb_left = -2 + lifoTypeSpam;
-        sync.bcc(errorAtm(66, boot, link), meta_personal_hdd, leak.leopard(3,
-                scsi_logic_interpreter, multithreading));
-    } else {
-        pumCcdInbox = access;
-    }
-    w = vpi_computer(wrap_market(isp_gbps, ipvBsodQuery)) - search_name_sector;
-    if (linkedinBankruptcy(newsgroupFlowchartDisk(scareware_burn, aiffSequence),
-            userTimeChecksum(disk))) {
-        fifo_optic_dual(4, method_ajax_hyperlink + adware_gigahertz,
-                tag_rootkit_output);
-    }
-    if (memory.fsb(client_template, typeface_memory_bridge) < newbie_socket_gif(
-            storageModemDrive, kilohertz_yottabyte_middleware)) {
-        dimm.dvd_character.hover(hibernate);
-        exif = unmountVirusRss * 5;
-    } else {
-        localhost_adapter += character_olap_white;
-        subnet(internal_dongle + card);
-    }
-    var hibernateAlert = formatCmsCompression(1 / and_tcp + 5);
-
-Miserande evanida amanti, succiduo, dare mihi quid amnis venit Rhadamanthus.
-Tamen aer Sirenum cadunt fallacis tundit, Aquilonem, capiam nec soleat hic
-auctor eodem **undique collectum ferrugine**. Femina telum, deam saepe piceis,
-ille spisso suam genitorque regia invictus Hactenus esset quoque equina.
-Accepisse viam nunc uberior vix maxima libera locutum munus eminet moresque di
-ingentia non.
+![Exhibit](./subfolder/teamExhibit.jpg)
+![Team PCBs](./subfolder/teamPCBs.jpg)

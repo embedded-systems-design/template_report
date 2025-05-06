@@ -6,6 +6,8 @@ title: Block Diagram
 
 ![Figure 1: Team Block Diagram](./TeamBlockDiagram.png)
 
+While connecting our individual block diagrams together, the team started with which systems needs to be next to each other. That would be the actuator and sensor subsystem, these systems need to be connected to each other to conduct SPI communication to facilitate a feedback loop. All other systems can be placed around these two, as communication will be handled through UART. To communicate through UART and complete product requirements, each individual system has a ribbon cable header. The ribbon cable header has power, ground, and receiving and transmitting pins. We pass these pins to each other to communicate effectively.
+
 ### Process Diagram
 
 ![Figure 2: Communication Process Diagram](./SequenceDiagram.jpg)
@@ -73,10 +75,10 @@ The first approach the team took in designing the message structure was deciding
 
 Once we had compiled our list of messages, team 202 then discussed the best way to format them. We came to the conclusion that including "message type" in our message structure will ensure that each member will know the context of the message they are receiving. Additionally, we had discussed that it would be inefficient for a device to send the same message to more than one system, so we created those messages to be sent out as a broadcast message as well.
 
-### Top 5 Biggest Changes
+### Top 5 Biggest Changes To API
 
 <li>We originally had 8 messages, broadcast message included. Four messages were dropped as they can be interpreted by another message. Dropping these messages allowed the team to continue developing the exhibit as well as decreases the noise between systems. This also ensures that the only communication happening between systems are priority and necessary.</li>
-<li></li>
+<li>We changed the message that the actuator system would be receiving. Currently we have the motor accept values 0, 1, or 2. Originally we were gonna have the actuator system accept only values between -1 and 1. So instead of setting the actuator in a predestined position the actuator would respond to a button press.</li>
 <li></li>
 <li></li>
 <li></li>

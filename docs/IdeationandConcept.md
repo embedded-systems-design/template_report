@@ -3,7 +3,7 @@ title: Ideation and Concept Generation
 ---
 ## The Exhibit
 
-**This exhibit** is a way to show young adults that everything, both large or small can have energy. The *energy* on display is **gravitational potential** energy which can change if the height of the spheres changes. The transfer of energy between the falling sphere and the lightbulb is done with the aid of a generator. 
+**This exhibit** is a way to show young adults that everything, both large or small can have energy. The *energy* on display is **gravitational potential** energy which can change if the height of the spheres changes. The transfer of energy between the falling sphere and the lightbulb is done with the aid of a generator.
 
 **The audience** for this exhibit are middle schoolers to highschoolers. Hydroelectric plants have been turning out kilowatts of power for almost 150 years. Today the southwest uses wind power, solar power, and nuclear power to provide energy.
 

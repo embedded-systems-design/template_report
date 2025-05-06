@@ -69,7 +69,6 @@ This is a similar process for user control over the stepper motor; a separate bu
 | R | Receives & does something with message |
 | - | Do nothing, passes message |
 
-
 The first approach the team took in designing the message structure was deciding what information is mandatory for each subsystem. After creating our mandatory list of messages, team 202 would then include messages that would help them debug the system in real-time. After all potential messages were created, we then trimmed the list. Most, if not all trimmed messages, include messages that provide information that can be obtained by another message.
 
 Once we had compiled our list of messages, team 202 then discussed the best way to format them. We came to the conclusion that including "message type" in our message structure will ensure that each member will know the context of the message they are receiving. Additionally, we had discussed that it would be inefficient for a device to send the same message to more than one system, so we created those messages to be sent out as a broadcast message as well.

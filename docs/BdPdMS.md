@@ -79,6 +79,4 @@ Once we had compiled our list of messages, team 202 then discussed the best way 
 
 <li>We originally had 8 messages, broadcast message included. Four messages were dropped as they can be interpreted by another message. Dropping these messages allowed the team to continue developing the exhibit as well as decreases the noise between systems. This also ensures that the only communication happening between systems are priority and necessary.</li>
 <li>We changed the message that the actuator system would be receiving. Currently we have the motor accept values 0, 1, or 2. Originally we were gonna have the actuator system accept only values between -1 and 1. So instead of setting the actuator in a predestined position the actuator would respond to a button press.</li>
-<li></li>
-<li></li>
-<li></li>
+<li>We also removed motor and sensor ID's for the messages that will be sent or received by the actuator and sensor systems. Due to that we are only using one motor and sensor in our exhibit.</li>

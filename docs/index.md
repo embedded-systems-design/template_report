@@ -10,9 +10,7 @@ tags:
 *List item 1
 *List item 2
 
-Name | Description
----- | -----------
-Samuel|fun
+
 
 ### Here is a Sub Heading
 
